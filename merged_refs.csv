@@ -1,58 +1,59 @@
-ID,Title,Topic,year,booktitle,author,publisher,url,journal,doi,isbn
-Garg2004EvaluationOT,"Evaluation of transcription and annotation tools for a multi-modal, multi-party dialogue corpus",Annotation or Tool,2004,Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04),"Garg, Saurabh  and
+,ID,Title,Topic,System Type Number,System Type Name,Corpus Used,year,booktitle,author,publisher,url,journal,doi,isbn
+0,Garg2004EvaluationOT,"Evaluation of transcription and annotation tools for a multi-modal, multi-party dialogue corpus",Annotation or Tool,,,,2004,Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04),"Garg, Saurabh  and
 Martinovski, Bilyana  and
 Robinson, Susan  and
 Stephan, Jens  and
 Tetreault, Joel  and
 Traum, David R.",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2004/pdf/758.pdf,,,
-Gilmartin2016CapturingCA,Capturing Chat: Annotation and Tools for Multiparty Casual Conversation,Annotation or Tool,2016,Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16),"Gilmartin, Emer  and
+1,Gilmartin2016CapturingCA,Capturing Chat: Annotation and Tools for Multiparty Casual Conversation,Annotation or Tool,,,,2016,Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16),"Gilmartin, Emer  and
 Campbell, Nick",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L16-1705,,,
-Gilmartin2018ChatsAC,Chats and Chunks: Annotation and Analysis of Multiparty Long Casual Conversations,Annotation or Tool,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Gilmartin, Emer  and
+2,Gilmartin2018ChatsAC,Chats and Chunks: Annotation and Analysis of Multiparty Long Casual Conversations,Annotation or Tool,,,,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Gilmartin, Emer  and
 Vogel, Carl  and
 Campbell, Nick",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L18-1309,,,
-Li2019AnAS,An Annotation Scheme of A Large-scale Multi-party Dialogues Dataset for Discourse Parsing and Machine Comprehension,Annotation or Tool,2019,,"Li, Jiaqi and Liu, Ming and Qin, Bing and Zheng, Zihao and Liu, Ting",,,arXiv preprint arXiv:1911.03514,,
-Kern2005GettingTF,Getting the floor: Motive-consistent strategy and individual outcomes in multi-party negotiations,Applications,2005,,M. Kern and J. Brett and L. Weingart,,,Group Decision and Negotiation,,
-Kenny2007TheMT,The more the merrier: Multi-party negotiation with virtual humans,Applications,2007,AAAI,P. Kenny and Arno Hartholt and J. Gratch and D. Traum and S. Marsella and W. Swartout,,,,,
-Traum2008MultipartyMM,"Multi-party, multi-issue, multi-strategy negotiation for multi-modal virtual agents",Applications,2008,IVA,D. Traum and S. Marsella and J. Gratch and J. Lee and Arno Hartholt,,,,,
-Dohsaka2009EffectsOC,Effects of conversational agents on activation of communication in thought-evoking multi-party dialogues,Applications,2009,Proceedings of the {SIGDIAL} 2009 Conference,"Dohsaka, Kohji  and
+3,Li2019AnAS,An Annotation Scheme of A Large-scale Multi-party Dialogues Dataset for Discourse Parsing and Machine Comprehension,Annotation or Tool,,,,2019,,"Li, Jiaqi and Liu, Ming and Qin, Bing and Zheng, Zihao and Liu, Ting",,,arXiv preprint arXiv:1911.03514,,
+4,Kern2005GettingTF,Getting the floor: Motive-consistent strategy and individual outcomes in multi-party negotiations,Applications,,,,2005,,M. Kern and J. Brett and L. Weingart,,,Group Decision and Negotiation,,
+5,Kenny2007TheMT,The more the merrier: Multi-party negotiation with virtual humans,Applications,1 and 2,active,*,2007,AAAI,P. Kenny and Arno Hartholt and J. Gratch and D. Traum and S. Marsella and W. Swartout,,,,,
+6,Traum2008MultipartyMM,"Multi-party, multi-issue, multi-strategy negotiation for multi-modal virtual agents",Applications,,,,2008,IVA,D. Traum and S. Marsella and J. Gratch and J. Lee and Arno Hartholt,,,,,
+7,Dohsaka2009EffectsOC,Effects of conversational agents on activation of communication in thought-evoking multi-party dialogues,Applications,,,,2009,Proceedings of the {SIGDIAL} 2009 Conference,"Dohsaka, Kohji  and
 Asai, Ryota  and
 Higashinaka, Ryuichiro  and
 Minami, Yasuhiro  and
 Maeda, Eisaku",Association for Computational Linguistics,https://www.aclweb.org/anthology/W09-3932,,,
-Hartholt2009AtTV,"At the virtual frontier: Introducing Gunslinger, a multi-character, mixed-reality, story-driven experience",Applications,2009,IVA,Arno Hartholt and J. Gratch and Lori Weiss and E. al.,,,,,
-Popescu2009ACS,A constraint satisfaction approach to context-sensitive utterance generation in multi-party dialogue systems,Applications,2009,,Vladimir Popescu and J. Caelen and C. Burileanu,,,International Journal of Speech Technology,,
-Popescu2009ArgumentativeOO,Argumentative Ordering of Utterances for Language Generation in Multi-party Human–Computer Dialogue,Applications,2009,,Vladimir Popescu and J. Caelen,,,Argumentation,,
-Yuan2011MultipartyDG,Multi-party dialogue games for distributed argumentation system,Applications,2011,,Jinping Yuan and L. Yao and Zhiyong Hao and F. Liu and Tangming Yuan,,,2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology,,
-Foster2012TwoPW,Two people walk into a bar: Dynamic multi-party social interaction with a robot agent,Applications,2012,ICMI '12,M. E. Foster and A. Gaschler and Manuel Giuliani and Amy Isard and M. Pateraki and Ronald P. A. Petrick,,,,,
-Morgan2012UsingST,Using state transition networks to analyze multi-party conversations in a serious game,Applications,2012,ITS,B. Morgan and Fazel Keshtkar and Ying Duan and P. Nash and A. Graesser,,,,,
-Leite2015ComparingMO,Comparing Models of Disengagement in Individual and Group Interactions,Applications,2015,,I. Leite and Marissa McCoy and D. Ullman and Nicole Salomons and B. Scassellati,,,2015 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI),,
-Candello2018HavingAA,Having an Animated Coffee with a Group of Chatbots from the 19 th Century,Applications,2018,,Heloisa Candello and C. Pinhanez and M. Pichiliani and M. Guerra and M. D. Bayser,,,Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems,,
-hsu2018socialnlp,SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues,Applications,2018,Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media,"Hsu, Chao-Chun  and
+8,Hartholt2009AtTV,"At the virtual frontier: Introducing Gunslinger, a multi-character, mixed-reality, story-driven experience",Applications,2,active-simulative,*,2009,IVA,Arno Hartholt and J. Gratch and Lori Weiss and E. al.,,,,,
+9,Popescu2009ACS,A constraint satisfaction approach to context-sensitive utterance generation in multi-party dialogue systems,Applications,,,,2009,,Vladimir Popescu and J. Caelen and C. Burileanu,,,International Journal of Speech Technology,,
+10,Popescu2009ArgumentativeOO,Argumentative Ordering of Utterances for Language Generation in Multi-party Human–Computer Dialogue,Applications,,,,2009,,Vladimir Popescu and J. Caelen,,,Argumentation,,
+11,Yuan2011MultipartyDG,Multi-party dialogue games for distributed argumentation system,Applications,,,,2011,,Jinping Yuan and L. Yao and Zhiyong Hao and F. Liu and Tangming Yuan,,,2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology,,
+12,Foster2012TwoPW,Two people walk into a bar: Dynamic multi-party social interaction with a robot agent,Applications,2,active-simulative,*,2012,ICMI '12,M. E. Foster and A. Gaschler and Manuel Giuliani and Amy Isard and M. Pateraki and Ronald P. A. Petrick,,,,,
+13,Morgan2012UsingST,Using state transition networks to analyze multi-party conversations in a serious game,Applications,2,active-simulative,*,2012,ITS,B. Morgan and Fazel Keshtkar and Ying Duan and P. Nash and A. Graesser,,,,,
+14,Leite2015ComparingMO,Comparing Models of Disengagement in Individual and Group Interactions,Applications,3,passive,*,2015,,I. Leite and Marissa McCoy and D. Ullman and Nicole Salomons and B. Scassellati,,,2015 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI),,
+15,Candello2018HavingAA,Having an Animated Coffee with a Group of Chatbots from the 19 th Century,Applications,2,active-simulative,*,2018,,Heloisa Candello and C. Pinhanez and M. Pichiliani and M. Guerra and M. D. Bayser,,,Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems,,
+16,hsu2018socialnlp,SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues,Applications,,,,2018,Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media,"Hsu, Chao-Chun  and
 Ku, Lun-Wei",Association for Computational Linguistics,https://www.aclweb.org/anthology/W18-3505,,10.18653/v1/W18-3505,
-karatas2018multi,How Multi-Party Conversation Can Become an Effective Interface While Drivin,Applications,2018,,"Karatas, Nihan and Yoshikawa, Soshi and De Silva, P Ravindra S and Okada, Michio",Human Interface Society,,The Transactions of Human Interface Society,,
-Snaith2018ADG,A dialogue game for multi-party goal-setting in health coaching,Applications,2018,COMMA,M. Snaith and D. G. Franco and Tessa Beinema and H. O. D. Akker and A. Pease,,,,,
-Das2019GenerationOM,Generation of Multi-Party Dialogues among Embodied Conversational Agents to Promote Active Living and Healthy Diet for Subjects Suffering from Type 2 Diabetes,Applications,2019,ICT4AWE,Kuthethur Sneha Jagannath Das and Tessa Beinema and H. O. D. Akker and H. Hermens,,,,,
-Fioramonte2019MultipartyTI,Multi-party talk in the medical encounter: Socio-pragmatic functions of family members' contributions in the treatment advice phase,Applications,2019,,Amy Fioramonte and C. V{\'a}squez,,,Journal of Pragmatics,,
-shmueli2019socialnlp,SocialNLP EmotionX 2019 Challenge Overview: Predicting Emotions in Spoken Dialogues and Chats,Applications,2019,,"Shmueli, Boaz and Ku, Lun-Wei",,,arXiv preprint arXiv:1909.07734,,
-sibun1997beyond,Beyond dialogue: the six W’s of multi-party interaction,Challenges,1997,"Working Notes of AAAI97 Spring Symposium On Mixed-Initiative Interaction, Stanford, CA","Sibun, Penelope",,,,,
-Kirchhoff2003DirectionsFM,Directions For Multi-Party Human-Computer Interaction Research,Challenges,2003,Proceedings of the {HLT}-{NAACL} 2003 Workshop on Research Directions in Dialogue Processing,"Kirchhoff, Katrin  and
+17,karatas2018multi,How Multi-Party Conversation Can Become an Effective Interface While Drivin,Applications,,,,2018,,"Karatas, Nihan and Yoshikawa, Soshi and De Silva, P Ravindra S and Okada, Michio",Human Interface Society,,The Transactions of Human Interface Society,,
+18,Snaith2018ADG,A dialogue game for multi-party goal-setting in health coaching,Applications,1 and 2,active,*,2018,COMMA,M. Snaith and D. G. Franco and Tessa Beinema and H. O. D. Akker and A. Pease,,,,,
+19,Das2019GenerationOM,Generation of Multi-Party Dialogues among Embodied Conversational Agents to Promote Active Living and Healthy Diet for Subjects Suffering from Type 2 Diabetes,Applications,1 and 2,active,*,2019,ICT4AWE,Kuthethur Sneha Jagannath Das and Tessa Beinema and H. O. D. Akker and H. Hermens,,,,,
+20,Fioramonte2019MultipartyTI,Multi-party talk in the medical encounter: Socio-pragmatic functions of family members' contributions in the treatment advice phase,Applications,1,active-additive,*,2019,,Amy Fioramonte and C. V{\'a}squez,,,Journal of Pragmatics,,
+21,shmueli2019socialnlp,SocialNLP EmotionX 2019 Challenge Overview: Predicting Emotions in Spoken Dialogues and Chats,Applications,,,,2019,,"Shmueli, Boaz and Ku, Lun-Wei",,,arXiv preprint arXiv:1909.07734,,
+22,sibun1997beyond,Beyond dialogue: the six W’s of multi-party interaction,Challenges,-,-,*,1997,"Working Notes of AAAI97 Spring Symposium On Mixed-Initiative Interaction, Stanford, CA","Sibun, Penelope",,,,,
+23,Kirchhoff2003DirectionsFM,Directions For Multi-Party Human-Computer Interaction Research,Challenges,-,-,*,2003,Proceedings of the {HLT}-{NAACL} 2003 Workshop on Research Directions in Dialogue Processing,"Kirchhoff, Katrin  and
 Ostendorf, Mari",,https://www.aclweb.org/anthology/W03-0703,,,
-Traum2003IssuesIM,Issues in multiparty dialogues,Challenges,2003,Workshop on Agent Communication Languages,D. Traum,,,,,
-Branigan2006PerspectivesOM,Perspectives on multi-party dialogue,Challenges,2006,,Holly P. Branigan,,,Research on Language and Computation,,
-Kronlid2008StepsTM,Steps towards multi-party dialogue management,Challenges,2008,,Fredrik Kronlid,,,,,
-Brandt2013ComputermediatedSI,Computer-mediated spoken interaction: Aspects of trouble in multi-party chat rooms,Challenges,2013,,"Brandt, Adam and Jenks, Christopher",,,Language@ internet,,
-Porcheron2017DoAH,""" Do Animals Have Accents?"" Talking with Agents in Multi-Party Conversation",Challenges,2017,,M. Porcheron and Joel E. Fischer and S. Sharples,,,Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing,,
-Huang2020ChallengesIB,Challenges in Building Intelligent Open-domain Dialog Systems,Challenges,2020,,Minlie Huang and Xiaoyan Zhu and Jianfeng Gao,,,ACM Transactions on Information Systems (TOIS),,
-nakano20205,"5.17 Chat, Personal Information Acquisition, and Turn-Taking in Multi-Party, Multimodal Dialogues",Challenges,2020,,"Nakano, Mikio",,,"Dagstuhl Reports, Vol. 10, Issue 1 ISSN 2192-5283",,
-Tr2008TheCM,The CALO meeting speech recognition and understanding system,Conversational AI Systems,2008,,"G. T{\""u}r and A. Stolcke and L. L. Voss and J. Dowding and B. Favre and R. Fern{\'a}ndez and M. Frampton and Michael W. Frandsen and C. Frederickson and M. Graciarena and Dilek Z. Hakkani-T{\""u}r and Donald Kintzing and K. Leveque and S. Mason and John Niekrasz and S. Peters and Matthew Purver and K. Riedhammer and E. Shriberg and Jing Tien and D. Vergyri and Fan Yang",,,2008 IEEE Spoken Language Technology Workshop,,
-Traum2012IncrementalDU,"Incremental dialogue understanding and feedback for multiparty, multimodal conversation",Conversational AI Systems,2012,IVA,D. Traum and D. DeVault and J. Lee and Zhiyang Wang and S. Marsella,,,,,
-Nishimura2013ChatlikeSD,Chat-like spoken dialog system for a multi-party dialog incorporating two agents and a user,Conversational AI Systems,2013,,"Nishimura, Ryota and Todo, Yuki and Yamamoto, Kazumasa and Nakagawa, Seiichi",,,Proceedings of iHAI,,
-Bayser2017AHA,A hybrid architecture for multi-party conversational systems,Conversational AI Systems,2017,,"de Bayser, Maira Gatti and Cavalin, Paulo and Souza, Renan and Braz, Alan and Candello, Heloisa and Pinhanez, Claudio and Briot, Jean-Pierre",,,arXiv preprint arXiv:1705.01214,,
-Jokinen2018DialogueMF,Dialogue models for socially intelligent robots,Conversational AI Systems,2018,ICSR,Kristiina Jokinen,,,,,
-Meng2018TowardsNS,"Towards Neural Speaker Modeling in Multi-Party Conversation: The Task, Dataset, and Models",Conversational AI Systems,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Meng, Zhao  and
+24,Traum2003IssuesIM,Issues in multiparty dialogues,Challenges,-,-,MRE,2003,Workshop on Agent Communication Languages,D. Traum,,,,,
+25,Traum2003IssuesIM,Issues in multiparty dialogues,Challenges,-,-,MRE,2003,Workshop on Agent Communication Languages,D. Traum,,,,,
+26,Branigan2006PerspectivesOM,Perspectives on multi-party dialogue,Challenges,,,,2006,,Holly P. Branigan,,,Research on Language and Computation,,
+27,Kronlid2008StepsTM,Steps towards multi-party dialogue management,Challenges,-,-,*,2008,,Fredrik Kronlid,,,,,
+28,Brandt2013ComputermediatedSI,Computer-mediated spoken interaction: Aspects of trouble in multi-party chat rooms,Challenges,,,,2013,,"Brandt, Adam and Jenks, Christopher",,,Language@ internet,,
+29,Porcheron2017DoAH,""" Do Animals Have Accents?"" Talking with Agents in Multi-Party Conversation",Challenges,-,-,*,2017,,M. Porcheron and Joel E. Fischer and S. Sharples,,,Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing,,
+30,Huang2020ChallengesIB,Challenges in Building Intelligent Open-domain Dialog Systems,Challenges,,,,2020,,Minlie Huang and Xiaoyan Zhu and Jianfeng Gao,,,ACM Transactions on Information Systems (TOIS),,
+31,nakano20205,"5.17 Chat, Personal Information Acquisition, and Turn-Taking in Multi-Party, Multimodal Dialogues",Challenges,,,,2020,,"Nakano, Mikio",,,"Dagstuhl Reports, Vol. 10, Issue 1 ISSN 2192-5283",,
+32,Tr2008TheCM,The CALO meeting speech recognition and understanding system,Conversational AI Systems,,,,2008,,"G. T{\""u}r and A. Stolcke and L. L. Voss and J. Dowding and B. Favre and R. Fern{\'a}ndez and M. Frampton and Michael W. Frandsen and C. Frederickson and M. Graciarena and Dilek Z. Hakkani-T{\""u}r and Donald Kintzing and K. Leveque and S. Mason and John Niekrasz and S. Peters and Matthew Purver and K. Riedhammer and E. Shriberg and Jing Tien and D. Vergyri and Fan Yang",,,2008 IEEE Spoken Language Technology Workshop,,
+33,Traum2012IncrementalDU,"Incremental dialogue understanding and feedback for multiparty, multimodal conversation",Conversational AI Systems,-,-,SASO-EN,2012,IVA,D. Traum and D. DeVault and J. Lee and Zhiyang Wang and S. Marsella,,,,,
+34,Nishimura2013ChatlikeSD,Chat-like spoken dialog system for a multi-party dialog incorporating two agents and a user,Conversational AI Systems,1,active-additive,*,2013,,"Nishimura, Ryota and Todo, Yuki and Yamamoto, Kazumasa and Nakagawa, Seiichi",,,Proceedings of iHAI,,
+35,Bayser2017AHA,A hybrid architecture for multi-party conversational systems,Conversational AI Systems,1,active-additive,*,2017,,"de Bayser, Maira Gatti and Cavalin, Paulo and Souza, Renan and Braz, Alan and Candello, Heloisa and Pinhanez, Claudio and Briot, Jean-Pierre",,,arXiv preprint arXiv:1705.01214,,
+36,Jokinen2018DialogueMF,Dialogue models for socially intelligent robots,Conversational AI Systems,,,,2018,ICSR,Kristiina Jokinen,,,,,
+37,Meng2018TowardsNS,"Towards Neural Speaker Modeling in Multi-Party Conversation: The Task, Dataset, and Models",Conversational AI Systems,,,,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Meng, Zhao  and
 Mou, Lili  and
 Jin, Zhi",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L18-1496,,,
-Hu2019GSNAG,Gsn: A graph-structured network for multi-party dialogues,Conversational AI Systems,2019,"Proceedings of the Twenty-Eighth International Joint Conference on
+38,Hu2019GSNAG,Gsn: A graph-structured network for multi-party dialogues,Conversational AI Systems,2,active-simulative,Ubuntu Dialogue,2019,"Proceedings of the Twenty-Eighth International Joint Conference on
 Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
 2019","Wenpeng Hu and
 Zhangming Chan and
@@ -60,11 +61,19 @@ Bing Liu and
 Dongyan Zhao and
 Jinwen Ma and
 Rui Yan",ijcai.org,https://doi.org/10.24963/ijcai.2019/696,,10.24963/ijcai.2019/696,
-Yang2019MIDSEP,MIDS: End-to-End Personalized Response Generation in Untrimmed Multi-Role Dialogue*,Conversational AI Systems,2019,,Qichuan Yang and Z. He and Zhiqiang Zhan and Jianyu Zhao and Y. Zhang and C. Hu,,,2019 International Joint Conference on Neural Networks (IJCNN),,
-Zarkowski2019MultipartyTI,Multi-party Turn-Taking in Repeated Human--Robot Interactions: An Interdisciplinary Evaluation,Applications,2019,,M. Zarkowski,,,Int. J. Soc. Robotics,,
-Martinez2020AMC,A Multiparty Chat-Based Dialogue System with Concurrent Conversation Tracking and Memory,Conversational AI Systems,2020,,Victor R. Martinez and J. Kennedy,,,Proceedings of the 2nd Conference on Conversational User Interfaces,,
-Papangelis2020PlatoDS,Plato dialogue system: A flexible conversational ai research platform,Conversational AI Systems,2020,,"Papangelis, Alexandros and Namazifar, Mahdi and Khatri, Chandra and Wang, Yi-Chia and Molino, Piero and Tur, Gokhan",,,arXiv preprint arXiv:2001.06463,,
-Zhu2020ConvLab2AO,"Convlab-2: An open-source toolkit for building, evaluating, and diagnosing dialogue systems",Conversational AI Systems,2020,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations,"Zhu, Qi  and
+39,Hu2019GSNAG,Gsn: A graph-structured network for multi-party dialogues,Conversational AI Systems,-,active-simulative,Ubuntu,2019,"Proceedings of the Twenty-Eighth International Joint Conference on
+Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
+2019","Wenpeng Hu and
+Zhangming Chan and
+Bing Liu and
+Dongyan Zhao and
+Jinwen Ma and
+Rui Yan",ijcai.org,https://doi.org/10.24963/ijcai.2019/696,,10.24963/ijcai.2019/696,
+40,Yang2019MIDSEP,MIDS: End-to-End Personalized Response Generation in Untrimmed Multi-Role Dialogue*,Conversational AI Systems,2,active-simulative,Friends,2019,,Qichuan Yang and Z. He and Zhiqiang Zhan and Jianyu Zhao and Y. Zhang and C. Hu,,,2019 International Joint Conference on Neural Networks (IJCNN),,
+41,Zarkowski2019MultipartyTI,Multi-party Turn-Taking in Repeated Human--Robot Interactions: An Interdisciplinary Evaluation,Applications,,,,2019,,M. Zarkowski,,,Int. J. Soc. Robotics,,
+42,Martinez2020AMC,A Multiparty Chat-Based Dialogue System with Concurrent Conversation Tracking and Memory,Conversational AI Systems,1,active-additive,*,2020,,Victor R. Martinez and J. Kennedy,,,Proceedings of the 2nd Conference on Conversational User Interfaces,,
+43,Papangelis2020PlatoDS,Plato dialogue system: A flexible conversational ai research platform,Conversational AI Systems,1 and 2,active,*,2020,,"Papangelis, Alexandros and Namazifar, Mahdi and Khatri, Chandra and Wang, Yi-Chia and Molino, Piero and Tur, Gokhan",,,arXiv preprint arXiv:2001.06463,,
+44,Zhu2020ConvLab2AO,"Convlab-2: An open-source toolkit for building, evaluating, and diagnosing dialogue systems",Conversational AI Systems,1 and 2,active,*,2020,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations,"Zhu, Qi  and
 Zhang, Zheng  and
 Fang, Yan  and
 Li, Xiang  and
@@ -74,35 +83,35 @@ Peng, Baolin  and
 Gao, Jianfeng  and
 Zhu, Xiaoyan  and
 Huang, Minlie",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.acl-demos.19,,10.18653/v1/2020.acl-demos.19,
-Leech1992100MW,100 Million Words of English:The British National Corpus (BNC),Corpora,1992,,G. Leech,,,Second Language Research,,
-stenstrom1993bergen,The Bergen corpus of London teenager language (COLT),Corpora,1993,,"Stenstr{\""o}m, AB and Breivik, Leiv Egil",Citeseer,,ICAME journal,,
-Rayson1997SocialDI,Social differentiation in the use of English vocabulary: some analyses of the conversational component of the British National Corpus,Corpora,1997,,Paul Rayson and G. Leech and Mary Hodges,,,International Journal of Corpus Linguistics,,
-Janin2003TheIM,The ICSI meeting corpus,Corpora,2003,,A. Janin and D. Baron and Jane Edwards and D. Ellis and D. Gelbart and N. Morgan and Barbara Peskin and T. Pfau and E. Shriberg and A. Stolcke and Chuck Wooters,,,"2003 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2003. Proceedings. (ICASSP '03).",,
-Robinson2004IssuesIC,Issues in corpus development for multi-party multi-modal task-oriented dialogue,Corpora,2004,Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04),"Robinson, Susan  and
+45,Leech1992100MW,100 Million Words of English:The British National Corpus (BNC),Corpora,,,,1992,,G. Leech,,,Second Language Research,,
+46,stenstrom1993bergen,The Bergen corpus of London teenager language (COLT),Corpora,,,,1993,,"Stenstr{\""o}m, AB and Breivik, Leiv Egil",Citeseer,,ICAME journal,,
+47,Rayson1997SocialDI,Social differentiation in the use of English vocabulary: some analyses of the conversational component of the British National Corpus,Corpora,,,,1997,,Paul Rayson and G. Leech and Mary Hodges,,,International Journal of Corpus Linguistics,,
+48,Janin2003TheIM,The ICSI meeting corpus,Corpora,,,,2003,,A. Janin and D. Baron and Jane Edwards and D. Ellis and D. Gelbart and N. Morgan and Barbara Peskin and T. Pfau and E. Shriberg and A. Stolcke and Chuck Wooters,,,"2003 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2003. Proceedings. (ICASSP '03).",,
+49,Robinson2004IssuesIC,Issues in corpus development for multi-party multi-modal task-oriented dialogue,Corpora,,,,2004,Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04),"Robinson, Susan  and
 Martinovski, Bilyana  and
 Garg, Saurabh  and
 Stephan, Jens  and
 Traum, David",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2004/pdf/766.pdf,,,
-Shriberg2004TheIM,The ICSI Meeting Recorder Dialog Act (MRDA) Corpus,Corpora,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Shriberg, Elizabeth  and
+50,Shriberg2004TheIM,The ICSI Meeting Recorder Dialog Act (MRDA) Corpus,Corpora,,,,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Shriberg, Elizabeth  and
 Dhillon, Raj  and
 Bhagat, Sonali  and
 Ang, Jeremy  and
 Carvey, Hannah",Association for Computational Linguistics,https://www.aclweb.org/anthology/W04-2319,,,
-Chen2005VACEMM,VACE Multimodal Meeting Corpus,Corpora,2005,MLMI,L. Chen and R. Rose and Ying Qiao and I. Kimbara and Fey Parrill and Haleema Welji and Tony X. Han and J. Tu and Zhongqiang Huang and M. Harper and Francis K. H. Quek and Yingen Xiong and D. McNeill and Ronald Tuttle and T. Huang,,,,,
-Jovanovic2005ACF,A corpus for studying addressing behaviour in multi-party dialogues,Corpora,2005,,N. Jovanovic and R. Akker and A. Nijholt,,,Language Resources and Evaluation,,
-McCowan2005TheAM,The AMI meeting corpus,Corpora,2005,Proceedings of the 5th International Conference on Methods and Techniques in Behavioral Research,"McCowan, Iain and Carletta, Jean and Kraaij, Wessel and Ashby, Simone and Bourban, S and Flynn, M and Guillemot, M and Hain, Thomas and Kadlec, J and Karaiskos, Vasilis and others",,,,,
-Forsythand2007LexicalAD,Lexical and Discourse Analysis of Online Chat Dialog,Corpora,2007,,Eric N. Forsythand and C. H. Martell,,,International Conference on Semantic Computing (ICSC 2007),,
-Mana2007MultimodalCO,Multimodal corpus of multi-party meetings for automatic social behavior analysis and personality traits detection,Corpora,2007,,N. Mana and B. Lepri and P. Chippendale and A. Cappelletti and F. Pianesi and P. Svaizer and M. Zancanaro,,,The Medical Roundtable,,
-Renals2007RecognitionAU,Recognition and understanding of meetings the AMI and AMIDA projects,Corpora,2007,,S. Renals and Thomas Hain and H. Bourlard,,,2007 IEEE Workshop on Automatic Speech Recognition \& Understanding (ASRU),,
-Xiao2007ACS,A Corpus-Based Sociolinguistic Study of Amplifiers in British English,Corpora,2007,,Richard Xiao and H. Tao,,,Sociolinguistic Studies,,
-Vinciarelli2009Canal9AD,Canal9: A database of political debates for analysis of social interactions,Corpora,2009,,A. Vinciarelli and Alfred Dielmann and S. Favre and Hugues Salamin,,,2009 3rd International Conference on Affective Computing and Intelligent Interaction and Workshops,,
-Hung2010TheIW,The idiap wolf corpus: exploring group behaviour in a competitive role-playing game,Corpora,2010,,Hayley Hung and Gokul Chittaranjan,,,Proceedings of the 18th ACM international conference on Multimedia,,
-Ritter2010UnsupervisedMO,Unsupervised Modeling of Twitter Conversations,Corpora,2010,Human Language Technologies: The 2010 Annual Conference of the North {A}merican Chapter of the Association for Computational Linguistics,"Ritter, Alan  and
+51,Chen2005VACEMM,VACE Multimodal Meeting Corpus,Corpora,,,,2005,MLMI,L. Chen and R. Rose and Ying Qiao and I. Kimbara and Fey Parrill and Haleema Welji and Tony X. Han and J. Tu and Zhongqiang Huang and M. Harper and Francis K. H. Quek and Yingen Xiong and D. McNeill and Ronald Tuttle and T. Huang,,,,,
+52,Jovanovic2005ACF,A corpus for studying addressing behaviour in multi-party dialogues,Corpora,,,,2005,,N. Jovanovic and R. Akker and A. Nijholt,,,Language Resources and Evaluation,,
+53,McCowan2005TheAM,The AMI meeting corpus,Corpora,,,,2005,Proceedings of the 5th International Conference on Methods and Techniques in Behavioral Research,"McCowan, Iain and Carletta, Jean and Kraaij, Wessel and Ashby, Simone and Bourban, S and Flynn, M and Guillemot, M and Hain, Thomas and Kadlec, J and Karaiskos, Vasilis and others",,,,,
+54,Forsythand2007LexicalAD,Lexical and Discourse Analysis of Online Chat Dialog,Corpora,,,,2007,,Eric N. Forsythand and C. H. Martell,,,International Conference on Semantic Computing (ICSC 2007),,
+55,Mana2007MultimodalCO,Multimodal corpus of multi-party meetings for automatic social behavior analysis and personality traits detection,Corpora,,,,2007,,N. Mana and B. Lepri and P. Chippendale and A. Cappelletti and F. Pianesi and P. Svaizer and M. Zancanaro,,,The Medical Roundtable,,
+56,Renals2007RecognitionAU,Recognition and understanding of meetings the AMI and AMIDA projects,Corpora,,,,2007,,S. Renals and Thomas Hain and H. Bourlard,,,2007 IEEE Workshop on Automatic Speech Recognition \& Understanding (ASRU),,
+57,Xiao2007ACS,A Corpus-Based Sociolinguistic Study of Amplifiers in British English,Corpora,,,,2007,,Richard Xiao and H. Tao,,,Sociolinguistic Studies,,
+58,Vinciarelli2009Canal9AD,Canal9: A database of political debates for analysis of social interactions,Corpora,,,,2009,,A. Vinciarelli and Alfred Dielmann and S. Favre and Hugues Salamin,,,2009 3rd International Conference on Affective Computing and Intelligent Interaction and Workshops,,
+59,Hung2010TheIW,The idiap wolf corpus: exploring group behaviour in a competitive role-playing game,Corpora,,,,2010,,Hayley Hung and Gokul Chittaranjan,,,Proceedings of the 18th ACM international conference on Multimedia,,
+60,Ritter2010UnsupervisedMO,Unsupervised Modeling of Twitter Conversations,Corpora,,,,2010,Human Language Technologies: The 2010 Annual Conference of the North {A}merican Chapter of the Association for Computational Linguistics,"Ritter, Alan  and
 Cherry, Colin  and
 Dolan, Bill",Association for Computational Linguistics,https://www.aclweb.org/anthology/N10-1020,,,
-Afantenos2012DevelopingAC,Developing a corpus of strategic conversation in The Settlers of Catan,Corpora,2012,SeineDial 2012-The 16th Workshop On The Semantics and Pragmatics Of Dialogue,"Afantenos, Stergos and Asher, Nicholas and Benamara, Farah and Cadilhac, Ana{\""\i}s and D{\'e}gremont, C{\'e}dric and Denis, Pascal and Guhe, Markus and Keizer, Simon and Lascarides, Alex and Lemon, Oliver and others",,,,,
-Banchs2012MovieDiCAM,Movie-DiC: a Movie Dialogue Corpus for Research and Development,Corpora,2012,Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers),"Banchs, Rafael E.",Association for Computational Linguistics,https://www.aclweb.org/anthology/P12-2040,,,
-Liu2012ExtendingTM,Extending the MPC corpus to Chinese and Urdu - A Multiparty Multi-Lingual Chat Corpus for Modeling Social Phenomena in Language,Corpora,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Liu, Ting  and
+61,Afantenos2012DevelopingAC,Developing a corpus of strategic conversation in The Settlers of Catan,Corpora,,,,2012,SeineDial 2012-The 16th Workshop On The Semantics and Pragmatics Of Dialogue,"Afantenos, Stergos and Asher, Nicholas and Benamara, Farah and Cadilhac, Ana{\""\i}s and D{\'e}gremont, C{\'e}dric and Denis, Pascal and Guhe, Markus and Keizer, Simon and Lascarides, Alex and Lemon, Oliver and others",,,,,
+62,Banchs2012MovieDiCAM,Movie-DiC: a Movie Dialogue Corpus for Research and Development,Corpora,,,,2012,Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers),"Banchs, Rafael E.",Association for Computational Linguistics,https://www.aclweb.org/anthology/P12-2040,,,
+63,Liu2012ExtendingTM,Extending the MPC corpus to Chinese and Urdu - A Multiparty Multi-Lingual Chat Corpus for Modeling Social Phenomena in Language,Corpora,,,,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Liu, Ting  and
 Shaikh, Samira  and
 Strzalkowski, Tomek  and
 Broadwell, Aaron  and
@@ -111,88 +120,88 @@ Taylor, Sarah  and
 Boz, Umit  and
 Ren, Xiaoai  and
 Wu, Jingsi",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2012/pdf/825_Paper.pdf,,,
-Oertel2012D64AC,D64: A corpus of richly recorded conversational interaction,Corpora,2012,,C. Oertel and F. Cummins and Jens Edlund and P. Wagner and N. Campbell,,,Journal on Multimodal User Interfaces,,
-Stupakov2012TheDA,"The design and collection of COSINE, a multi-microphone in situ speech corpus recorded in noisy environment",Corpora,2012,,A. Stupakov and E. Hanusa and Deepak Vijaywargi and D. Fox and J. Bilmes,,,Comput. Speech Lang.,,
-Walker2012ACF,A Corpus for Research on Deliberation and Debate,Corpora,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Walker, Marilyn  and
+64,Oertel2012D64AC,D64: A corpus of richly recorded conversational interaction,Corpora,,,,2012,,C. Oertel and F. Cummins and Jens Edlund and P. Wagner and N. Campbell,,,Journal on Multimodal User Interfaces,,
+65,Stupakov2012TheDA,"The design and collection of COSINE, a multi-microphone in situ speech corpus recorded in noisy environment",Corpora,,,,2012,,A. Stupakov and E. Hanusa and Deepak Vijaywargi and D. Fox and J. Bilmes,,,Comput. Speech Lang.,,
+66,Walker2012ACF,A Corpus for Research on Deliberation and Debate,Corpora,,,,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Walker, Marilyn  and
 Tree, Jean Fox  and
 Anand, Pranav  and
 Abbott, Rob  and
 King, Joseph",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2012/pdf/1078_Paper.pdf,,,
-Walker2012AnAC,An Annotated Corpus of Film Dialogue for Learning and Characterizing Character Style,Corpora,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Walker, Marilyn  and
+67,Walker2012AnAC,An Annotated Corpus of Film Dialogue for Learning and Characterizing Character Style,Corpora,,,,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Walker, Marilyn  and
 Lin, Grace  and
 Sawyer, Jennifer",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2012/pdf/1114_Paper.pdf,,,
-Ameixa2013FromST,From subtitles to human interactions : introducing the SubTle Corpus,Corpora,2013,,David Ameixa and Lu{\'i}sa Coheur,,,,,
-Uthus2013TheUC,The Ubuntu Chat Corpus for Multiparticipant Chat Analysis,Corpora,2013,AAAI Spring Symposium: Analyzing Microtext,David C. Uthus and D. Aha,,,,,
-Roy2014TVDAR,TVD: A Reproducible and Multiply Aligned TV Series Dataset,Corpora,2014,Proceedings of the Ninth International Conference on Language Resources and Evaluation ({LREC}'14),"Roy, Anindya  and
+68,Ameixa2013FromST,From subtitles to human interactions : introducing the SubTle Corpus,Corpora,,,,2013,,David Ameixa and Lu{\'i}sa Coheur,,,,,
+69,Uthus2013TheUC,The Ubuntu Chat Corpus for Multiparticipant Chat Analysis,Corpora,,,,2013,AAAI Spring Symposium: Analyzing Microtext,David C. Uthus and D. Aha,,,,,
+70,Roy2014TVDAR,TVD: A Reproducible and Multiply Aligned TV Series Dataset,Corpora,,,,2014,Proceedings of the Ninth International Conference on Language Resources and Evaluation ({LREC}'14),"Roy, Anindya  and
 Guinaudeau, Camille  and
 Bredin, Herv{\'e}  and
 Barras, Claude",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2014/pdf/751_Paper.pdf,,,
-Lowe2015TheUD,The ubuntu dialogue corpus: A large dataset for research in unstructured multi-turn dialogue systems,Corpora,2015,Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Lowe, Ryan  and
+71,Lowe2015TheUD,The ubuntu dialogue corpus: A large dataset for research in unstructured multi-turn dialogue systems,Corpora,,,,2015,Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Lowe, Ryan  and
 Pow, Nissan  and
 Serban, Iulian  and
 Pineau, Joelle",Association for Computational Linguistics,https://www.aclweb.org/anthology/W15-4640,,10.18653/v1/W15-4640,
-Rosenthal2015ICA,I Couldn't Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions,Corpora,2015,Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Rosenthal, Sara  and
+72,Rosenthal2015ICA,I Couldn't Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions,Corpora,,,,2015,Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Rosenthal, Sara  and
 McKeown, Kathy",Association for Computational Linguistics,https://www.aclweb.org/anthology/W15-4625,,10.18653/v1/W15-4625,
-Schrading2015AnAO,An Analysis of Domestic Abuse Discourse on Reddit,Corpora,2015,Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing,"Schrading, Nicolas  and
+73,Schrading2015AnAO,An Analysis of Domestic Abuse Discourse on Reddit,Corpora,,,,2015,Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing,"Schrading, Nicolas  and
 Ovesdotter Alm, Cecilia  and
 Ptucha, Ray  and
 Homan, Christopher",Association for Computational Linguistics,https://www.aclweb.org/anthology/D15-1309,,10.18653/v1/D15-1309,
-Asher2016DiscourseSA,Discourse structure and dialogue acts in multiparty dialogue: the STAC corpus,Corpora,2016,Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16),"Asher, Nicholas  and
+74,Asher2016DiscourseSA,Discourse structure and dialogue acts in multiparty dialogue: the STAC corpus,Corpora,,,,2016,Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16),"Asher, Nicholas  and
 Hunter, Julie  and
 Morey, Mathieu  and
 Farah, Benamara  and
 Afantenos, Stergos",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L16-1432,,,
-Litman2016TheTC,The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues,Corpora,2016,Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing,"Litman, Diane  and
+75,Litman2016TheTC,The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues,Corpora,,,,2016,Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing,"Litman, Diane  and
 Paletz, Susannah  and
 Rahimi, Zahra  and
 Allegretti, Stefani  and
 Rice, Caitlin",Association for Computational Linguistics,https://www.aclweb.org/anthology/D16-1149,,10.18653/v1/D16-1149,
-Budzianowski2018MultiWOZA,MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling,Corpora,2018,Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing,"Budzianowski, Pawe{\l}  and
+76,Budzianowski2018MultiWOZA,MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling,Corpora,,,,2018,Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing,"Budzianowski, Pawe{\l}  and
 Wen, Tsung-Hsien  and
 Tseng, Bo-Hsiang  and
 Casanueva, I{\~n}igo  and
 Ultes, Stefan  and
 Ramadan, Osman  and
 Ga{\v{s}}i{\'c}, Milica",Association for Computational Linguistics,https://www.aclweb.org/anthology/D18-1547,,10.18653/v1/D18-1547,
-Chen2018EmotionLinesAE,EmotionLines: An Emotion Corpus of Multi-Party Conversations,Corpora,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Hsu, Chao-Chun  and
+77,Chen2018EmotionLinesAE,EmotionLines: An Emotion Corpus of Multi-Party Conversations,Corpora,,,,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Hsu, Chao-Chun  and
 Chen, Sheng-Yeh  and
 Kuo, Chuan-Chun  and
 Huang, Ting-Hao  and
 Ku, Lun-Wei",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L18-1252,,,
-Koutsombogera2018ModelingCM,Modeling Collaborative Multimodal Behavior in Group Dialogues: The MULTISIMO Corpus,Corpora,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Koutsombogera, Maria  and
+78,Koutsombogera2018ModelingCM,Modeling Collaborative Multimodal Behavior in Group Dialogues: The MULTISIMO Corpus,Corpora,,,,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Koutsombogera, Maria  and
 Vogel, Carl",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L18-1466,,,
-Serban2018ASO,A survey of available corpora for building data-driven dialogue systems,Corpora,2018,,"Serban, Iulian Vlad and Lowe, Ryan and Henderson, Peter and Charlin, Laurent and Pineau, Joelle",,,Dialogue \& Discourse,,
-shah2018building,Building a conversational agent overnight with dialogue self-play,Corpora,2018,,"Shah, Pararth and Hakkani-T{\""u}r, Dilek and T{\""u}r, Gokhan and Rastogi, Abhinav and Bapna, Ankur and Nayak, Neha and Heck, Larry",,,arXiv preprint arXiv:1801.04871,,
-Poria2019MELDAM,Meld: A multimodal multi-party dataset for emotion recognition in conversations,Corpora,2019,Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics,"Poria, Soujanya  and
+79,Serban2018ASO,A survey of available corpora for building data-driven dialogue systems,Corpora,,,,2018,,"Serban, Iulian Vlad and Lowe, Ryan and Henderson, Peter and Charlin, Laurent and Pineau, Joelle",,,Dialogue \& Discourse,,
+80,shah2018building,Building a conversational agent overnight with dialogue self-play,Corpora,,,,2018,,"Shah, Pararth and Hakkani-T{\""u}r, Dilek and T{\""u}r, Gokhan and Rastogi, Abhinav and Bapna, Ankur and Nayak, Neha and Heck, Larry",,,arXiv preprint arXiv:1801.04871,,
+81,Poria2019MELDAM,Meld: A multimodal multi-party dataset for emotion recognition in conversations,Corpora,,,,2019,Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics,"Poria, Soujanya  and
 Hazarika, Devamanyu  and
 Majumder, Navonil  and
 Naik, Gautam  and
 Cambria, Erik  and
 Mihalcea, Rada",Association for Computational Linguistics,https://www.aclweb.org/anthology/P19-1050,,10.18653/v1/P19-1050,
-Bost2020SerialSA,Serial Speakers: a Dataset of TV Series,Corpora,2020,Proceedings of the 12th Language Resources and Evaluation Conference,"Bost, Xavier  and
+82,Bost2020SerialSA,Serial Speakers: a Dataset of TV Series,Corpora,,,,2020,Proceedings of the 12th Language Resources and Evaluation Conference,"Bost, Xavier  and
 Labatut, Vincent  and
 Linares, Georges",European Language Resources Association,https://www.aclweb.org/anthology/2020.lrec-1.525,,,979-10-95546-34-4
-Chang2020ConvoKitAT,ConvoKit: A Toolkit for the Analysis of Conversations,Corpora,2020,Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Chang, Jonathan P.  and
+83,Chang2020ConvoKitAT,ConvoKit: A Toolkit for the Analysis of Conversations,Corpora,,,,2020,Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Chang, Jonathan P.  and
 Chiam, Caleb  and
 Fu, Liye  and
 Wang, Andrew  and
 Zhang, Justine  and
 Danescu-Niculescu-Mizil, Cristian",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.sigdial-1.8,,,
-Chen2020MPDDAM,MPDD: A Multi-Party Dialogue Dataset for Analysis of Emotions and Interpersonal Relationships,Corpora,2020,Proceedings of the 12th Language Resources and Evaluation Conference,"Chen, Yi-Ting  and
+84,Chen2020MPDDAM,MPDD: A Multi-Party Dialogue Dataset for Analysis of Emotions and Interpersonal Relationships,Corpora,,,,2020,Proceedings of the 12th Language Resources and Evaluation Conference,"Chen, Yi-Ting  and
 Huang, Hen-Hsen  and
 Chen, Hsin-Hsi",European Language Resources Association,https://www.aclweb.org/anthology/2020.lrec-1.76,,,979-10-95546-34-4
-Firdaus2020MEISDAM,"MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations",Corpora,2020,Proceedings of the 28th International Conference on Computational Linguistics,"Firdaus, Mauajama  and
+85,Firdaus2020MEISDAM,"MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations",Corpora,,,,2020,Proceedings of the 28th International Conference on Computational Linguistics,"Firdaus, Mauajama  and
 Chauhan, Hardik  and
 Ekbal, Asif  and
 Bhattacharyya, Pushpak",International Committee on Computational Linguistics,https://www.aclweb.org/anthology/2020.coling-main.393,,10.18653/v1/2020.coling-main.393,
-Jiang2020AutomaticTP,Automatic Text-Based Personality Recognition on Monologues and Multiparty Dialogues Using Attentive Networks and Contextual Embeddings (Student Abstract),Corpora,2020,"The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+86,Jiang2020AutomaticTP,Automatic Text-Based Personality Recognition on Monologues and Multiparty Dialogues Using Attentive Networks and Contextual Embeddings (Student Abstract),Corpora,,,,2020,"The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
 2020, The Thirty-Second Innovative Applications of Artificial Intelligence
 Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational
 Advances in Artificial Intelligence, {EAAI} 2020, New York, NY, USA,
 February 7-12, 2020","Hang Jiang and
 Xianzhe Zhang and
 Jinho D. Choi",{AAAI} Press,https://aaai.org/ojs/index.php/AAAI/article/view/7182,,,
-Li2020MolweniAC,Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehension Dataset with Discourse Structure,Corpora,2020,Proceedings of the 28th International Conference on Computational Linguistics,"Li, Jiaqi  and
+87,Li2020MolweniAC,Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehension Dataset with Discourse Structure,Corpora,,,,2020,Proceedings of the 28th International Conference on Computational Linguistics,"Li, Jiaqi  and
 Liu, Ming  and
 Kan, Min-Yen  and
 Zheng, Zihao  and
@@ -200,49 +209,49 @@ Wang, Zekun  and
 Lei, Wenqiang  and
 Liu, Ting  and
 Qin, Bing",International Committee on Computational Linguistics,https://www.aclweb.org/anthology/2020.coling-main.238,,10.18653/v1/2020.coling-main.238,
-Majumder2020InterviewAL,Interview: A Large-Scale Open-Source Corpus of Media Dialog,Corpora,2020,,"Majumder, Bodhisattwa Prasad and Li, Shuyang and Ni, Jianmo and McAuley, Julian",,,arXiv preprint arXiv:2004.03090,,
-Majumder2020InterviewAL,Interview: A Large-Scale Open-Source Corpus of Media Dialog,Corpora,2020,,"Majumder, Bodhisattwa Prasad and Li, Shuyang and Ni, Jianmo and McAuley, Julian",,,arXiv preprint arXiv:2004.03090,,
-Zhu2021MediaSumAL,MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization,Corpora,2021,Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies,"Zhu, Chenguang  and
+88,Majumder2020InterviewAL,Interview: A Large-Scale Open-Source Corpus of Media Dialog,Corpora,,,,2020,,"Majumder, Bodhisattwa Prasad and Li, Shuyang and Ni, Jianmo and McAuley, Julian",,,arXiv preprint arXiv:2004.03090,,
+89,Majumder2020InterviewAL,Interview: A Large-Scale Open-Source Corpus of Media Dialog,Corpora,,,,2020,,"Majumder, Bodhisattwa Prasad and Li, Shuyang and Ni, Jianmo and McAuley, Julian",,,arXiv preprint arXiv:2004.03090,,
+90,Zhu2021MediaSumAL,MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization,Corpora,,,,2021,Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies,"Zhu, Chenguang  and
 Liu, Yang  and
 Mei, Jie  and
 Zeng, Michael",Association for Computational Linguistics,https://www.aclweb.org/anthology/2021.naacl-main.474,,,
-Leech1994Claws4TT,Claws4: The Tagging Of The British National Corpus,Data Collection,1994,{COLING} 1994 Volume 1: The 15th {I}nternational {C}onference on {C}omputational {L}inguistics,"Leech, Geoffrey  and
+91,Leech1994Claws4TT,Claws4: The Tagging Of The British National Corpus,Data Collection,,,,1994,{COLING} 1994 Volume 1: The 15th {I}nternational {C}onference on {C}omputational {L}inguistics,"Leech, Geoffrey  and
 Garside, Roger  and
 Bryant, Michael",,https://www.aclweb.org/anthology/C94-1103,,,
-Besser2007ACD,A Comprehensive Disfluency Model for Multi-Party Interaction,Data Collection,2007,Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue,"Besser, Jana  and
+92,Besser2007ACD,A Comprehensive Disfluency Model for Multi-Party Interaction,Data Collection,,,,2007,Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue,"Besser, Jana  and
 Alexandersson, Jan",Association for Computational Linguistics,https://www.aclweb.org/anthology/2007.sigdial-1.31,,,
-Hain2007The2A,The 2007 AMI(DA) System for Meeting Transcription,Data Collection,2007,CLEAR,Thomas Hain and L. Burget and J. Dines and G. Garau and M. Karafi{\'a}t and D. V. Leeuwen and M. Lincoln and V. Wan,,,,,
-Elsner2008YouTT,You talking to me? A Corpus and Algorithm for Conversation Disentanglement,Data Collection,2008,Proceedings of ACL-08: HLT,"Elsner, Micha  and
+93,Hain2007The2A,The 2007 AMI(DA) System for Meeting Transcription,Data Collection,,,,2007,CLEAR,Thomas Hain and L. Burget and J. Dines and G. Garau and M. Karafi{\'a}t and D. V. Leeuwen and M. Lincoln and V. Wan,,,,,
+94,Elsner2008YouTT,You talking to me? A Corpus and Algorithm for Conversation Disentanglement,Data Collection,,,,2008,Proceedings of ACL-08: HLT,"Elsner, Micha  and
 Charniak, Eugene",Association for Computational Linguistics,https://www.aclweb.org/anthology/P08-1095,,,
-Laskowski2008ANNOTATIONGF,Annotation guide for laughter in multi-party conversation,Data Collection,2008,,K. Laskowski and S. Burger and T. Notari,,,,,
-Petukhova2009TheIO,The independence of dimensions in multidimensional dialogue act annotation,Data Collection,2009,"Proceedings of Human Language Technologies: The 2009 Annual Conference of the North {A}merican Chapter of the Association for Computational Linguistics, Companion Volume: Short Papers","Petukhova, Volha  and
+95,Laskowski2008ANNOTATIONGF,Annotation guide for laughter in multi-party conversation,Data Collection,,,,2008,,K. Laskowski and S. Burger and T. Notari,,,,,
+96,Petukhova2009TheIO,The independence of dimensions in multidimensional dialogue act annotation,Data Collection,,,,2009,"Proceedings of Human Language Technologies: The 2009 Annual Conference of the North {A}merican Chapter of the Association for Computational Linguistics, Companion Volume: Short Papers","Petukhova, Volha  and
 Bunt, Harry",Association for Computational Linguistics,https://www.aclweb.org/anthology/N09-2050,,,
-Tiedemann2012ParallelDT,"Parallel Data, Tools and Interfaces in OPUS",Data Collection,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Tiedemann, J{\""o}rg",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf,,,
-Dutta2017DialogueMI,Dialogue modelling in multi-party social media conversation,Data Collection,2017,TSD,Subhabrata Dutta and Dipankar Das,,,,,
-Rameshkumar2020StorytellingWD,Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,Data Collection,2020,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics,"Rameshkumar, Revanth  and
+97,Tiedemann2012ParallelDT,"Parallel Data, Tools and Interfaces in OPUS",Data Collection,,,,2012,Proceedings of the Eighth International Conference on Language Resources and Evaluation ({LREC}'12),"Tiedemann, J{\""o}rg",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf,,,
+98,Dutta2017DialogueMI,Dialogue modelling in multi-party social media conversation,Data Collection,,,,2017,TSD,Subhabrata Dutta and Dipankar Das,,,,,
+99,Rameshkumar2020StorytellingWD,Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,Data Collection,-,-,CRD3,2020,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics,"Rameshkumar, Revanth  and
 Bailey, Peter",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.acl-main.459,,10.18653/v1/2020.acl-main.459,
-Clark2004MultilevelDA,Multi-level dialogue act tags,Dialogue Act Classification,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Clark, Alexander  and
+100,Clark2004MultilevelDA,Multi-level dialogue act tags,Dialogue Act Classification,-,-,ICSI,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Clark, Alexander  and
 Popescu-Belis, Andrei",Association for Computational Linguistics,https://www.aclweb.org/anthology/W04-2328,,,
-vreeswijk2004free,A free-format dialogue protocol for multi-party inquiry,EDA / CSS,2004,,"Vreeswijk, Gerard and Hulstijn, Joris",,,on the Semantics and Pragmatics of Dialogue,,
-Kolr2006OnSP,On speaker-specific prosodic models for automatic dialog act segmentation of multi-party meetings,Dialogue Act Classification,2006,INTERSPEECH,J. Kol{\'a}r and E. Shriberg and Yang Liu,,,,,
-Geertzen2007AMA,A multidimensional approach to utterance segmentation and dialogue act classification,Dialogue Act Classification,2007,Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue,"Geertzen, Jeroen  and
+101,vreeswijk2004free,A free-format dialogue protocol for multi-party inquiry,EDA / CSS,,,,2004,,"Vreeswijk, Gerard and Hulstijn, Joris",,,on the Semantics and Pragmatics of Dialogue,,
+102,Kolr2006OnSP,On speaker-specific prosodic models for automatic dialog act segmentation of multi-party meetings,Dialogue Act Classification,,,,2006,INTERSPEECH,J. Kol{\'a}r and E. Shriberg and Yang Liu,,,,,
+103,Geertzen2007AMA,A multidimensional approach to utterance segmentation and dialogue act classification,Dialogue Act Classification,-,-,AMI,2007,Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue,"Geertzen, Jeroen  and
 Petukhova, Volha  and
 Bunt, Harry",Association for Computational Linguistics,https://www.aclweb.org/anthology/2007.sigdial-1.26,,,
-PopescuBelis2007DialogueAO,Dialogue Acts: One or More Dimensions?,Dialogue Act Classification,2007,,A. Popescu-Belis,,,,,
-Bunt2009TheDT,The DIT++ taxonomy for functional dialogue markup,Dialogue Act Classification,2009,"AAMAS 2009 Workshop, Towards a Standard Markup Language for Embodied Dialogue Acts","Bunt, Harry",,,,,
-Kim2012ClassifyingDA,Classifying dialogue acts in multi-party live chats,Dialogue Act Classification,2012,"Proceedings of the 26th Pacific Asia Conference on Language, Information, and Computation","Kim, Su Nam  and
+104,PopescuBelis2007DialogueAO,Dialogue Acts: One or More Dimensions?,Dialogue Act Classification,-,-,"DAMSL, ICSI",2007,,A. Popescu-Belis,,,,,
+105,Bunt2009TheDT,The DIT++ taxonomy for functional dialogue markup,Dialogue Act Classification,-,-,AMI,2009,"AAMAS 2009 Workshop, Towards a Standard Markup Language for Embodied Dialogue Acts","Bunt, Harry",,,,,
+106,Kim2012ClassifyingDA,Classifying dialogue acts in multi-party live chats,Dialogue Act Classification,-,-,NPS,2012,"Proceedings of the 26th Pacific Asia Conference on Language, Information, and Computation","Kim, Su Nam  and
 Cavedon, Lawrence  and
 Baldwin, Timothy","Faculty of Computer Science, Universitas Indonesia",https://www.aclweb.org/anthology/Y12-1050,,,
-Rus2012AutomaticDO,Automated Discovery of Speech Act Categories in Educational Games,Dialogue Act Classification,2012,EDM,V. Rus and A. Graesser and C. Moldovan and Nobal B. Niraula,,,,,
-Tavafi2013DialogueAR,Dialogue act recognition in synchronous and asynchronous conversations,Dialogue Act Classification,2013,Proceedings of the {SIGDIAL} 2013 Conference,"Tavafi, Maryam  and
+107,Rus2012AutomaticDO,Automated Discovery of Speech Act Categories in Educational Games,Dialogue Act Classification,,,,2012,EDM,V. Rus and A. Graesser and C. Moldovan and Nobal B. Niraula,,,,,
+108,Tavafi2013DialogueAR,Dialogue act recognition in synchronous and asynchronous conversations,Dialogue Act Classification,-,-,ICSI,2013,Proceedings of the {SIGDIAL} 2013 Conference,"Tavafi, Maryam  and
 Mehdad, Yashar  and
 Joty, Shafiq  and
 Carenini, Giuseppe  and
 Ng, Raymond",Association for Computational Linguistics,https://www.aclweb.org/anthology/W13-4017,,,
-Amanova2016CreatingAD,Creating annotated dialogue resources: Cross-domain dialogue act classification,Dialogue Act Classification,2016,Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16),"Amanova, Dilafruz  and
+109,Amanova2016CreatingAD,Creating annotated dialogue resources: Cross-domain dialogue act classification,Dialogue Act Classification,-,-,*,2016,Proceedings of the Tenth International Conference on Language Resources and Evaluation ({LREC}'16),"Amanova, Dilafruz  and
 Petukhova, Volha  and
 Klakow, Dietrich",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L16-1017,,,
-Traum2018DialogueSA,Dialogue structure annotation for multi-floor interaction,Dialogue Act Classification,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Traum, David  and
+110,Traum2018DialogueSA,Dialogue structure annotation for multi-floor interaction,Dialogue Act Classification,-,-,*,2018,Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018),"Traum, David  and
 Henry, Cassidy  and
 Lukin, Stephanie  and
 Artstein, Ron  and
@@ -254,28 +263,28 @@ Voss, Clare  and
 Marge, Matthew  and
 Hayes, Cory  and
 Hill, Susan",European Language Resources Association (ELRA),https://www.aclweb.org/anthology/L18-1017,,,
-Irsoy2019DialogueAC,Dialogue Act Classification in Group Chats with DAG-LSTMs,Dialogue Act Classification,2019,,"{\.I}rsoy, Ozan and Gosangi, Rakesh and Zhang, Haimin and Wei, Mu-Hsin and Lund, Peter and Pappadopulo, Duccio and Fahy, Brendan and Nephytou, Neophytos and Ortiz, Camilo",,,arXiv preprint arXiv:1908.01821,,
-Ricento1987ClausalEI,Clausal ellipsis in multi-party conversation in english,EDA / CSS,1987,,T. Ricento,,,Journal of Pragmatics,,
-Ishizaki1998ExploringTC,Exploring the characteristics of multi-party dialogues,EDA / CSS,1998,{COLING} 1998 Volume 1: The 17th International Conference on Computational Linguistics,"Ishizaki, Masato  and
+111,Irsoy2019DialogueAC,Dialogue Act Classification in Group Chats with DAG-LSTMs,Dialogue Act Classification,-,-,SATC,2019,,"{\.I}rsoy, Ozan and Gosangi, Rakesh and Zhang, Haimin and Wei, Mu-Hsin and Lund, Peter and Pappadopulo, Duccio and Fahy, Brendan and Nephytou, Neophytos and Ortiz, Camilo",,,arXiv preprint arXiv:1908.01821,,
+112,Ricento1987ClausalEI,Clausal ellipsis in multi-party conversation in english,EDA / CSS,-,-,*,1987,,T. Ricento,,,Journal of Pragmatics,,
+113,Ishizaki1998ExploringTC,Exploring the characteristics of multi-party dialogues,EDA / CSS,-,-,*,1998,{COLING} 1998 Volume 1: The 17th International Conference on Computational Linguistics,"Ishizaki, Masato  and
 Kato, Tsuneaki",,https://www.aclweb.org/anthology/C98-1092,,,
-Shriberg2001ObservationsOO,Observations on overlap: Findings and implications for automatic processing of multi-party conversation,EDA / CSS,2001,INTERSPEECH,E. Shriberg and A. Stolcke and D. Baron,,,,,
-Pickering2004TowardAM,Toward a mechanistic psychology of dialogue,EDA / CSS,2004,,M. Pickering and S. Garrod,,,Behavioral and Brain Sciences,,
-Aoki2006WheresT,"Where's the"" party"" in"" multi-party""? Analyzing the Structure of Small-Group Sociable Talk",EDA / CSS,2006,Proceedings of the 2006 20th anniversary conference on Computer supported cooperative work,"Aoki, Paul M and Szymanski, Margaret H and Plurkowski, Luke and Thornton, James D and Woodruff, Allison and Yi, Weilie",,,,,
-Healey2006ParticipationP,"Participation, precedence and co-ordination in dialogue",EDA / CSS,2006,Proceedings of the 28th Annual Conference of the Cognitive Science Society,"Healey, Patrick GT and Mills, Gregory",,,,,
-McBurney2007TheEW,The eightfold way of deliberation dialogue,EDA / CSS,2007,,P. McBurney and D. Hitchcock and S. Parsons,,,International Journal of Intelligent Systems,,
-Eshghi2009UncommonG,Uncommon ground: The distribution of dialogue contexts,EDA / CSS,2009,,A. Eshghi,,,,,
-Eshghi2009WhatIC,What is conversation? Distinguishing dialogue contexts,EDA / CSS,2009,Proceedings of the Annual Meeting of the Cognitive Science Society,"Eshghi, Arash and Healey, Patrick GT",,,,,
-Strzalkowski2010ModelingSP,Modeling socio-cultural phenomena in discourse,EDA / CSS,2010,Proceedings of the 23rd International Conference on Computational Linguistics (Coling 2010),"Strzalkowski, Tomek  and
+114,Shriberg2001ObservationsOO,Observations on overlap: Findings and implications for automatic processing of multi-party conversation,EDA / CSS,,,,2001,INTERSPEECH,E. Shriberg and A. Stolcke and D. Baron,,,,,
+115,Pickering2004TowardAM,Toward a mechanistic psychology of dialogue,EDA / CSS,,,,2004,,M. Pickering and S. Garrod,,,Behavioral and Brain Sciences,,
+116,Aoki2006WheresT,"Where's the"" party"" in"" multi-party""? Analyzing the Structure of Small-Group Sociable Talk",EDA / CSS,-,-,*,2006,Proceedings of the 2006 20th anniversary conference on Computer supported cooperative work,"Aoki, Paul M and Szymanski, Margaret H and Plurkowski, Luke and Thornton, James D and Woodruff, Allison and Yi, Weilie",,,,,
+117,Healey2006ParticipationP,"Participation, precedence and co-ordination in dialogue",EDA / CSS,-,-,*,2006,Proceedings of the 28th Annual Conference of the Cognitive Science Society,"Healey, Patrick GT and Mills, Gregory",,,,,
+118,McBurney2007TheEW,The eightfold way of deliberation dialogue,EDA / CSS,-,-,*,2007,,P. McBurney and D. Hitchcock and S. Parsons,,,International Journal of Intelligent Systems,,
+119,Eshghi2009UncommonG,Uncommon ground: The distribution of dialogue contexts,EDA / CSS,,,,2009,,A. Eshghi,,,,,
+120,Eshghi2009WhatIC,What is conversation? Distinguishing dialogue contexts,EDA / CSS,-,-,*,2009,Proceedings of the Annual Meeting of the Cognitive Science Society,"Eshghi, Arash and Healey, Patrick GT",,,,,
+121,Strzalkowski2010ModelingSP,Modeling socio-cultural phenomena in discourse,EDA / CSS,-,-,MPC,2010,Proceedings of the 23rd International Conference on Computational Linguistics (Coling 2010),"Strzalkowski, Tomek  and
 Broadwell, George Aaron  and
 Stromer-Galley, Jennifer  and
 Shaikh, Samira  and
 Taylor, Sarah  and
 Webb, Nick",Coling 2010 Organizing Committee,https://www.aclweb.org/anthology/C10-1117,,,
-DeVault2011IncrementalIA,Incremental interpretation and prediction of utterance meaning for interactive dialogue,EDA / CSS,2011,,D. DeVault and Kenji Sagae and D. Traum,,,Dialogue Discourse,,
-Howes2011OnII,On incrementality in dialogue: Evidence from compound contributions,EDA / CSS,2011,,C. Howes and Matthew Purver and P. Healey and G. Mills and E. Gregoromichelaki,,,Dialogue Discourse,,
-DeVault2012IncrementalSU,Incremental speech understanding in a multi-party virtual human dialogue system,EDA / CSS,2012,Proceedings of the Demonstration Session at the Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies,"DeVault, David  and
+122,DeVault2011IncrementalIA,Incremental interpretation and prediction of utterance meaning for interactive dialogue,EDA / CSS,,,,2011,,D. DeVault and Kenji Sagae and D. Traum,,,Dialogue Discourse,,
+123,Howes2011OnII,On incrementality in dialogue: Evidence from compound contributions,EDA / CSS,-,-,*,2011,,C. Howes and Matthew Purver and P. Healey and G. Mills and E. Gregoromichelaki,,,Dialogue Discourse,,
+124,DeVault2012IncrementalSU,Incremental speech understanding in a multi-party virtual human dialogue system,EDA / CSS,,,,2012,Proceedings of the Demonstration Session at the Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies,"DeVault, David  and
 Traum, David",Association for Computational Linguistics,https://www.aclweb.org/anthology/N12-3007,,,
-Strzalkowski2012ModelingLA,Modeling leadership and influence in multi-party online discourse,EDA / CSS,2012,Proceedings of {COLING} 2012,"Strzalkowski, Tomek  and
+125,Strzalkowski2012ModelingLA,Modeling leadership and influence in multi-party online discourse,EDA / CSS,,,,2012,Proceedings of {COLING} 2012,"Strzalkowski, Tomek  and
 Shaikh, Samira  and
 Liu, Ting  and
 Broadwell, George Aaron  and
@@ -284,45 +293,45 @@ Taylor, Sarah  and
 Boz, Umit  and
 Ravishankar, Veena  and
 Ren, Xiaoai",The COLING 2012 Organizing Committee,https://www.aclweb.org/anthology/C12-1155,,,
-Nguyen2013ArgvizIV,Argviz: Interactive visualization of topic dynamics in multi-party conversations,EDA / CSS,2013,Proceedings of the 2013 {NAACL} {HLT} Demonstration Session,"Nguyen, Viet-An  and
+126,Nguyen2013ArgvizIV,Argviz: Interactive visualization of topic dynamics in multi-party conversations,EDA / CSS,,,,2013,Proceedings of the 2013 {NAACL} {HLT} Demonstration Session,"Nguyen, Viet-An  and
 Hu, Yuening  and
 Boyd-Graber, Jordan  and
 Resnik, Philip",Association for Computational Linguistics,https://www.aclweb.org/anthology/N13-3009,,,
-Wang2014LinguisticAI,Linguistic adaptation in conversation threads: Analyzing alignment in online health communities,EDA / CSS,2014,Proceedings of the 2014 ACL Workshop on Cognitive Modeling and Computational Linguistics,"Wang, Yafei and Reitter, David and Yen, John",,,,,
-Sheehan2019TeMoCoAV,TeMoCo: A Visualization tool for Temporal Analysis of Multi-Party Dialogues in Clinical Settings,EDA / CSS,2019,,Shane Sheehan and P. Albert and S. Luz and M. Masoodian,,,2019 IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS),,
-Yoon2019ContextualII,Contextual Integration in Multiparty Audience Design,EDA / CSS,2019,,S. Yoon and Sarah Brown-Schmidt,,,Cognitive science,,
-Rehm2005WhereDT,Where do they look? Gaze behaviors of multiple users interacting with an embodied conversational agent,Engagement,2005,IVA,M. Rehm and E. Andr{\'e},,,,,
-Klotz2011EngagementbasedMD,Engagement-based multi-party dialog with a humanoid robot,Engagement,2011,Proceedings of the {SIGDIAL} 2011 Conference,"Klotz, David  and
+127,Wang2014LinguisticAI,Linguistic adaptation in conversation threads: Analyzing alignment in online health communities,EDA / CSS,,,,2014,Proceedings of the 2014 ACL Workshop on Cognitive Modeling and Computational Linguistics,"Wang, Yafei and Reitter, David and Yen, John",,,,,
+128,Sheehan2019TeMoCoAV,TeMoCo: A Visualization tool for Temporal Analysis of Multi-Party Dialogues in Clinical Settings,EDA / CSS,,,,2019,,Shane Sheehan and P. Albert and S. Luz and M. Masoodian,,,2019 IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS),,
+129,Yoon2019ContextualII,Contextual Integration in Multiparty Audience Design,EDA / CSS,-,-,*,2019,,S. Yoon and Sarah Brown-Schmidt,,,Cognitive science,,
+130,Rehm2005WhereDT,Where do they look? Gaze behaviors of multiple users interacting with an embodied conversational agent,Engagement,,,,2005,IVA,M. Rehm and E. Andr{\'e},,,,,
+131,Klotz2011EngagementbasedMD,Engagement-based multi-party dialog with a humanoid robot,Engagement,,,,2011,Proceedings of the {SIGDIAL} 2011 Conference,"Klotz, David  and
 Wienke, Johannes  and
 Peltason, Julia  and
 Wrede, Britta  and
 Wrede, Sebastian  and
 Khalidov, Vasil  and
 Odobez, Jean-Marc",Association for Computational Linguistics,https://www.aclweb.org/anthology/W11-2042,,,
-Xu2013DesigningEA,Designing engagement-aware agents for multiparty conversations,Engagement,2013,"2013 {ACM} {SIGCHI} Conference on Human Factors in Computing Systems,
+132,Xu2013DesigningEA,Designing engagement-aware agents for multiparty conversations,Engagement,,,,2013,"2013 {ACM} {SIGCHI} Conference on Human Factors in Computing Systems,
 {CHI} '13, Paris, France, April 27 - May 2, 2013","Qianli Xu and
 Liyuan Li and
 Gang S. Wang",{ACM},https://doi.org/10.1145/2470654.2481308,,10.1145/2470654.2481308,
-Foster2017AutomaticallyCU,Automatically classifying user engagement for dynamic multi-party human--robot interaction,Engagement,2017,,M. E. Foster and A. Gaschler and Manuel Giuliani,,,International Journal of Social Robotics,,
-Friedberg2012LexicalEA,Lexical entrainment and success in student engineering groups,Entrainment,2012,,Heather Friedberg and D. Litman and Susannah B. F. Paletz,,,2012 IEEE Spoken Language Technology Workshop (SLT),,
-kimoto2019lexical,Lexical Entrainment in Multi-party Human--Robot Interaction,Entrainment,2019,International Conference on Social Robotics,"Kimoto, Mitsuhiko and Iio, Takamasa and Imai, Michita and Shiomi, Masahiro",,,,,
-rahimi2019linguistic,Linguistic Entrainment in Multi-Party Spoken Dialogues,Entrainment,2019,,"Rahimi, Zahra",,,,,
-Yu2019InvestigatingTR,"Investigating the Relationship between Multi-Party Linguistic Entrainment, Team Characteristics, and the Perception of Team Social Outcomes",Entrainment,2019,FLAIRS Conference,Mingzhi Yu and D. Litman and S. Paletz,,,,,
-Rahimi2020Entrainment2VecEE,Entrainment2Vec: Embedding Entrainment for Multi-Party Dialogues,Entrainment,2020,AAAI,Z. Rahimi and D. Litman,,,,,
-Damianos2000EvaluatingMM,Evaluating Multi-party Multi-modal Systems,Evaluation Metrics,2000,Proceedings of the Second International Conference on Language Resources and Evaluation ({LREC}{'}00),"Damianos, Laurie E.  and
+133,Foster2017AutomaticallyCU,Automatically classifying user engagement for dynamic multi-party human--robot interaction,Engagement,,,,2017,,M. E. Foster and A. Gaschler and Manuel Giuliani,,,International Journal of Social Robotics,,
+134,Friedberg2012LexicalEA,Lexical entrainment and success in student engineering groups,Entrainment,-,-,*,2012,,Heather Friedberg and D. Litman and Susannah B. F. Paletz,,,2012 IEEE Spoken Language Technology Workshop (SLT),,
+135,kimoto2019lexical,Lexical Entrainment in Multi-party Human--Robot Interaction,Entrainment,,,,2019,International Conference on Social Robotics,"Kimoto, Mitsuhiko and Iio, Takamasa and Imai, Michita and Shiomi, Masahiro",,,,,
+136,rahimi2019linguistic,Linguistic Entrainment in Multi-Party Spoken Dialogues,Entrainment,-,-,TEAMS,2019,,"Rahimi, Zahra",,,,,
+137,Yu2019InvestigatingTR,"Investigating the Relationship between Multi-Party Linguistic Entrainment, Team Characteristics, and the Perception of Team Social Outcomes",Entrainment,-,-,TEAMS,2019,FLAIRS Conference,Mingzhi Yu and D. Litman and S. Paletz,,,,,
+138,Rahimi2020Entrainment2VecEE,Entrainment2Vec: Embedding Entrainment for Multi-Party Dialogues,Entrainment,-,-,TEAMS,2020,AAAI,Z. Rahimi and D. Litman,,,,,
+139,Damianos2000EvaluatingMM,Evaluating Multi-party Multi-modal Systems,Evaluation Metrics,,,,2000,Proceedings of the Second International Conference on Language Resources and Evaluation ({LREC}{'}00),"Damianos, Laurie E.  and
 Drury, Jill  and
 Fanderclai, Tari  and
 Hirschman, Lynette  and
 Kurtz, Jeff  and
 Oshika, Beatrice",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2000/pdf/368.pdf,,,
-Dignum2003TowardsAT,Towards a testbed for multi-party dialogues,Evaluation Metrics,2003,Workshop on Agent Communication Languages,F. Dignum and G. Vreeswijk,,,,,
-traum2004evaluation,Evaluation of Multi-party Virtual Reality Dialogue Interaction,Evaluation Metrics,2004,Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04),"Traum, David R.  and
+140,Dignum2003TowardsAT,Towards a testbed for multi-party dialogues,Evaluation Metrics,-,-,*,2003,Workshop on Agent Communication Languages,F. Dignum and G. Vreeswijk,,,,,
+141,traum2004evaluation,Evaluation of Multi-party Virtual Reality Dialogue Interaction,Evaluation Metrics,-,-,MRE,2004,Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04),"Traum, David R.  and
 Robinson, Susan  and
 Stephan, Jens",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2004/pdf/768.pdf,,,
-Traum2006EvaluationOM,Evaluation of multi-party reality dialogue interaction,Evaluation Metrics,2006,,"Traum, David R and Robinson, Susan and Stephan, Jens",,,,,
-Kao2019ModelOM,Model of Multi-turn Dialogue in Emotional Chatbot,Evaluation Metrics,2019,,Chien-Hao Kao and Chih-Chieh Chen and Yu-Tza Tsai,,,2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI),,
-Zhan2019SSAAM,SSA: A More Humanized Automatic Evaluation Method for Open Dialogue Generation,Evaluation Metrics,2019,,Zhiqiang Zhan and Zifeng Hou and Qichuan Yang and Jianyu Zhao and Y. Zhang and C. Hu,,,2019 International Joint Conference on Neural Networks (IJCNN),,
-Howcroft2020TwentyYO,Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions,Evaluation Metrics,2020,Proceedings of the 13th International Conference on Natural Language Generation,"Howcroft, David M.  and
+142,Traum2006EvaluationOM,Evaluation of multi-party reality dialogue interaction,Evaluation Metrics,-,-,MRE,2006,,"Traum, David R and Robinson, Susan and Stephan, Jens",,,,,
+143,Kao2019ModelOM,Model of Multi-turn Dialogue in Emotional Chatbot,Evaluation Metrics,,,,2019,,Chien-Hao Kao and Chih-Chieh Chen and Yu-Tza Tsai,,,2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI),,
+144,Zhan2019SSAAM,SSA: A More Humanized Automatic Evaluation Method for Open Dialogue Generation,Evaluation Metrics,,,,2019,,Zhiqiang Zhan and Zifeng Hou and Qichuan Yang and Jianyu Zhao and Y. Zhang and C. Hu,,,2019 International Joint Conference on Neural Networks (IJCNN),,
+145,Howcroft2020TwentyYO,Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions,Evaluation Metrics,-,-,-,2020,Proceedings of the 13th International Conference on Natural Language Generation,"Howcroft, David M.  and
 Belz, Anya  and
 Clinciu, Miruna-Adriana  and
 Gkatzia, Dimitra  and
@@ -332,70 +341,70 @@ Mille, Simon  and
 van Miltenburg, Emiel  and
 Santhanam, Sashank  and
 Rieser, Verena",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.inlg-1.23,,,
-al2012furhat,Furhat: a back-projected human-like robot head for multiparty human-machine interaction,Furhat,2012,Cognitive behavioural systems,"Al Moubayed, Samer and Beskow, Jonas and Skantze, Gabriel and Granstr{\""o}m, Bj{\""o}rn",Springer,,,,
-Skantze2012FurhatAR,Furhat at robotville: A robot head harvesting the thoughts of the public through multi-party dialogue,Furhat,2012,IVA 2012,"Gabriel Skantze and S. Moubayed and Joakim Gustafson and J. Beskow and B. Granstr{\""o}m",,,,,
-Skantze2012IrisTKAS,IrisTK: a statechart-based toolkit for multi-party face-to-face interaction,Furhat,2012,ICMI '12,Gabriel Skantze and S. Moubayed,,,,,
-Moubayed2013TheFB,"The furhat back-projected humanoid head--lip reading, gaze and multi-party interaction",Furhat,2013,,S. Moubayed and Gabriel Skantze and J. Beskow,,,Int. J. Humanoid Robotics,,
-Johansson2015OpportunitiesAO,Opportunities and obligations to take turns in collaborative multi-party human-robot interaction,Furhat,2015,Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Johansson, Martin  and
+146,al2012furhat,Furhat: a back-projected human-like robot head for multiparty human-machine interaction,Furhat,2,active-simulative,furhat,2012,Cognitive behavioural systems,"Al Moubayed, Samer and Beskow, Jonas and Skantze, Gabriel and Granstr{\""o}m, Bj{\""o}rn",Springer,,,,
+147,Skantze2012FurhatAR,Furhat at robotville: A robot head harvesting the thoughts of the public through multi-party dialogue,Furhat,2,active-simulative,furhat,2012,IVA 2012,"Gabriel Skantze and S. Moubayed and Joakim Gustafson and J. Beskow and B. Granstr{\""o}m",,,,,
+148,Skantze2012IrisTKAS,IrisTK: a statechart-based toolkit for multi-party face-to-face interaction,Furhat,,,,2012,ICMI '12,Gabriel Skantze and S. Moubayed,,,,,
+149,Moubayed2013TheFB,"The furhat back-projected humanoid head--lip reading, gaze and multi-party interaction",Furhat,,,,2013,,S. Moubayed and Gabriel Skantze and J. Beskow,,,Int. J. Humanoid Robotics,,
+150,Johansson2015OpportunitiesAO,Opportunities and obligations to take turns in collaborative multi-party human-robot interaction,Furhat,,,,2015,Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Johansson, Martin  and
 Skantze, Gabriel",Association for Computational Linguistics,https://www.aclweb.org/anthology/W15-4642,,10.18653/v1/W15-4642,
-Skantze2015ExploringTC,Exploring turn-taking cues in multi-party human-robot discussions about objects,Furhat,2015,,Gabriel Skantze and Martin Johansson and J. Beskow,,,Proceedings of the 2015 ACM on International Conference on Multimodal Interaction,,
-Purver2006UnsupervisedTM,Unsupervised topic modelling for multi-party spoken discourse,Identifying Topic,2006,Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics,"Purver, Matthew  and
+151,Skantze2015ExploringTC,Exploring turn-taking cues in multi-party human-robot discussions about objects,Furhat,,,,2015,,Gabriel Skantze and Martin Johansson and J. Beskow,,,Proceedings of the 2015 ACM on International Conference on Multimodal Interaction,,
+152,Purver2006UnsupervisedTM,Unsupervised topic modelling for multi-party spoken discourse,Identifying Topic,-,-,ICSI,2006,Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics,"Purver, Matthew  and
 K{\""o}rding, Konrad P.  and
 Griffiths, Thomas L.  and
 Tenenbaum, Joshua B.",Association for Computational Linguistics,https://www.aclweb.org/anthology/P06-1003,,10.3115/1220175.1220178,
-Georgescul2008ACS,A Comparative Study of Mixture Models for Automatic Topic Segmentation of Multiparty Dialogues,Identifying Topic,2008,Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-{II},"Georgescul, Maria  and
+153,Georgescul2008ACS,A Comparative Study of Mixture Models for Automatic Topic Segmentation of Multiparty Dialogues,Identifying Topic,-,-,ICSI,2008,Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-{II},"Georgescul, Maria  and
 Clark, Alexander  and
 Armstrong, Susan",,https://www.aclweb.org/anthology/I08-2133,,,
-luz2010relevance,"The relevance of timing, pauses and overlaps in dialogues: Detecting topic changes in scenario based meetings",Identifying Topic,2010,Eleventh Annual Conference of the International Speech Communication Association,"Luz, Saturnino and Su, Jing",,,,,
-Kim2012ExtractingKF,Extracting keywords from multi-party live chats,Identifying Topic,2012,"Proceedings of the 26th Pacific Asia Conference on Language, Information, and Computation","Kim, Su Nam  and
+154,luz2010relevance,"The relevance of timing, pauses and overlaps in dialogues: Detecting topic changes in scenario based meetings",Identifying Topic,,,,2010,Eleventh Annual Conference of the International Speech Communication Association,"Luz, Saturnino and Su, Jing",,,,,
+155,Kim2012ExtractingKF,Extracting keywords from multi-party live chats,Identifying Topic,-,-,MPC,2012,"Proceedings of the 26th Pacific Asia Conference on Language, Information, and Computation","Kim, Su Nam  and
 Baldwin, Timothy","Faculty of Computer Science, Universitas Indonesia",https://www.aclweb.org/anthology/Y12-1021,,,
-Nguyen2012SITSAH,SITS: A Hierarchical Nonparametric Model using Speaker Identity for Topic Segmentation in Multiparty Conversations,Identifying Topic,2012,Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),"Nguyen, Viet-An  and
+156,Nguyen2012SITSAH,SITS: A Hierarchical Nonparametric Model using Speaker Identity for Topic Segmentation in Multiparty Conversations,Identifying Topic,-,-,ICSI,2012,Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),"Nguyen, Viet-An  and
 Boyd-Graber, Jordan  and
 Resnik, Philip",Association for Computational Linguistics,https://www.aclweb.org/anthology/P12-1009,,,
-Huget2004FirstST,First steps towards multi-party communication,IMPORTANT,2004,International Workshop on Agent Communication,"Huget, Marc-Philippe and Demazeau, Yves",,,,,
-strauss2010proactive,Proactive Spoken Dialogue Interaction in Multi-Party Environments,IMPORTANT,2010,,"Strauss, Petra-Maria and Minker, Wolfgang",Springer,,,,
-Traum2002EmbodiedAF,Embodied agents for multi-party dialogue in immersive virtual worlds,Multimodal Approaches,2002,AAMAS '02,D. Traum and J. Rickel,,,,,
-kaiser2005can,"Can modeling redundancy in multimodal, multi-party tasks support dynamic learning",Multimodal Approaches,2005,CHI'05 Workshop: CHI Virtuality 2005,"Kaiser, Edward C",,,,,
-lockelt2005multi,Multi-Party Interaction With Self-Contained Virtual Characters,Multimodal Approaches,2005,"Proceedings of the DIALOR workshop on the semantics and pragmatics of dialogue, LORIA, Nancy, France","L{\""o}ckelt, Markus and Pfleger, Norbert",,,,,
-Kolr2006UsingPF,Using prosody for automatic sentence segmentation of multi-party meetings,Multimodal Approaches,2006,TSD,J. Kol{\'a}r and E. Shriberg and Yang Liu,,,,,
-Lckelt2007MultipartyCF,Multi-party Conversation for Mixed Reality,Multimodal Approaches,2007,,"M. L{\""o}ckelt and N. Pfleger and Norbert Reithinger",,,Int. J. Virtual Real.,,
-Popescu2008UnsupervisedST,Unsupervised speaker tracking in a speech recognition module for multi-party human-computer dialogue,Multimodal Approaches,2008,,Vladimir Popescu and C. Burileanu and J. Caelen,,,2008 16th European Signal Processing Conference,,
-Kawahara2009NewPO,New Perspectives on Spoken Language Understanding: Does Machine Need to Fully Understand Speech?,Multimodal Approaches,2009,,Tatsuya Kawahara,,,2009 IEEE Workshop on Automatic Speech Recognition \& Understanding,,
-Kok2009MultimodalEP,Multimodal end-of-turn prediction in multi-party meetings,Multimodal Approaches,2009,ICMI-MLMI '09,I. D. Kok and D. Heylen,,,,,
-battersby2010using,Using head movement to detect listener responses during multi-party dialogue,Multimodal Approaches,2010,Proceedings of LREC workshop on multimodal corpora advances in capturing coding and analysing multimodality,"Battersby, Stuart A and Healey, Patrick GT",,,,,
-Jie2010RecognizeTM,Recognize the most dominant person in multi-party meetings using nontraditional features,Multimodal Approaches,2010,,Cao Jie and Pan Peng,,,2010 IEEE International Conference on Intelligent Computing and Intelligent Systems,,
-Thrisson2010AMM,A multiparty multimodal architecture for realtime turntaking,Multimodal Approaches,2010,IVA,K. Th{\'o}risson and Olafur Gislason and G. Jonsdottir and Hrafn Th. Thorisson,,,,,
-Traum2010IntegrationOV,Integration of Visual Perception in Dialogue Understanding for Virtual Humans in Multi-Party interaction.,Multimodal Approaches,2010,AAMAS 2010,D. Traum and Louis-Philippe Morency,,,,,
-Hung2011EstimatingDI,Estimating dominance in multi-party meetings using speaker diarization,Multimodal Approaches,2011,,Hayley Hung and Yan-ping Huang and G. Friedland and D. Gatica-Perez,,,"IEEE Transactions on Audio, Speech, and Language Processing",,
-laskowski2011predicting,"Predicting, detecting and explaining the occurrence of vocal activity in multi-party conversation",Multimodal Approaches,2011,,"Laskowski, Kornel",,,Links,,
-Foster2012MachineLO,Machine learning of social states and skills for multi-party human-robot interaction,Multimodal Approaches,2012,Proceedings of the workshop on Machine Learning for Interactive Systems (MLIS 2012),"Foster, Mary Ellen and Keizer, Simon and Wang, Zhuoran and Lemon, Oliver",,,,,
-Banchs2013AIDAAI,AIDA: Artificial Intelligent Dialogue Agent,Multimodal Approaches,2013,Proceedings of the {SIGDIAL} 2013 Conference,"Banchs, Rafael E.  and
+157,Huget2004FirstST,First steps towards multi-party communication,IMPORTANT,,,,2004,International Workshop on Agent Communication,"Huget, Marc-Philippe and Demazeau, Yves",,,,,
+158,strauss2010proactive,Proactive Spoken Dialogue Interaction in Multi-Party Environments,IMPORTANT,,,,2010,,"Strauss, Petra-Maria and Minker, Wolfgang",Springer,,,,
+159,Traum2002EmbodiedAF,Embodied agents for multi-party dialogue in immersive virtual worlds,Multimodal Approaches,-,-,MRE,2002,AAMAS '02,D. Traum and J. Rickel,,,,,
+160,kaiser2005can,"Can modeling redundancy in multimodal, multi-party tasks support dynamic learning",Multimodal Approaches,,,,2005,CHI'05 Workshop: CHI Virtuality 2005,"Kaiser, Edward C",,,,,
+161,lockelt2005multi,Multi-Party Interaction With Self-Contained Virtual Characters,Multimodal Approaches,,,,2005,"Proceedings of the DIALOR workshop on the semantics and pragmatics of dialogue, LORIA, Nancy, France","L{\""o}ckelt, Markus and Pfleger, Norbert",,,,,
+162,Kolr2006UsingPF,Using prosody for automatic sentence segmentation of multi-party meetings,Multimodal Approaches,,,,2006,TSD,J. Kol{\'a}r and E. Shriberg and Yang Liu,,,,,
+163,Lckelt2007MultipartyCF,Multi-party Conversation for Mixed Reality,Multimodal Approaches,,,,2007,,"M. L{\""o}ckelt and N. Pfleger and Norbert Reithinger",,,Int. J. Virtual Real.,,
+164,Popescu2008UnsupervisedST,Unsupervised speaker tracking in a speech recognition module for multi-party human-computer dialogue,Multimodal Approaches,,,,2008,,Vladimir Popescu and C. Burileanu and J. Caelen,,,2008 16th European Signal Processing Conference,,
+165,Kawahara2009NewPO,New Perspectives on Spoken Language Understanding: Does Machine Need to Fully Understand Speech?,Multimodal Approaches,,,,2009,,Tatsuya Kawahara,,,2009 IEEE Workshop on Automatic Speech Recognition \& Understanding,,
+166,Kok2009MultimodalEP,Multimodal end-of-turn prediction in multi-party meetings,Multimodal Approaches,,,,2009,ICMI-MLMI '09,I. D. Kok and D. Heylen,,,,,
+167,battersby2010using,Using head movement to detect listener responses during multi-party dialogue,Multimodal Approaches,,,,2010,Proceedings of LREC workshop on multimodal corpora advances in capturing coding and analysing multimodality,"Battersby, Stuart A and Healey, Patrick GT",,,,,
+168,Jie2010RecognizeTM,Recognize the most dominant person in multi-party meetings using nontraditional features,Multimodal Approaches,,,,2010,,Cao Jie and Pan Peng,,,2010 IEEE International Conference on Intelligent Computing and Intelligent Systems,,
+169,Thrisson2010AMM,A multiparty multimodal architecture for realtime turntaking,Multimodal Approaches,,,,2010,IVA,K. Th{\'o}risson and Olafur Gislason and G. Jonsdottir and Hrafn Th. Thorisson,,,,,
+170,Traum2010IntegrationOV,Integration of Visual Perception in Dialogue Understanding for Virtual Humans in Multi-Party interaction.,Multimodal Approaches,-,-,SASO-EN,2010,AAMAS 2010,D. Traum and Louis-Philippe Morency,,,,,
+171,Hung2011EstimatingDI,Estimating dominance in multi-party meetings using speaker diarization,Multimodal Approaches,,,,2011,,Hayley Hung and Yan-ping Huang and G. Friedland and D. Gatica-Perez,,,"IEEE Transactions on Audio, Speech, and Language Processing",,
+172,laskowski2011predicting,"Predicting, detecting and explaining the occurrence of vocal activity in multi-party conversation",Multimodal Approaches,,,,2011,,"Laskowski, Kornel",,,Links,,
+173,Foster2012MachineLO,Machine learning of social states and skills for multi-party human-robot interaction,Multimodal Approaches,,,,2012,Proceedings of the workshop on Machine Learning for Interactive Systems (MLIS 2012),"Foster, Mary Ellen and Keizer, Simon and Wang, Zhuoran and Lemon, Oliver",,,,,
+174,Banchs2013AIDAAI,AIDA: Artificial Intelligent Dialogue Agent,Multimodal Approaches,,,,2013,Proceedings of the {SIGDIAL} 2013 Conference,"Banchs, Rafael E.  and
 Jiang, Ridong  and
 Kim, Seokhwan  and
 Niswar, Arthur  and
 Yeo, Kheng Hui",Association for Computational Linguistics,https://www.aclweb.org/anthology/W13-4023,,,
-Novick2013GroundingAT,Grounding and Turn-Taking in Multimodal Multiparty Conversation,Multimodal Approaches,2013,HCI,D. Novick and Iv{\'a}n Gris,,,,,
-Tung2013MultipartyHI,Multi-party human-machine interaction using a smart multimodal digital signage,Multimodal Approaches,2013,HCI,Tony Tung and R. Gomez and Tatsuya Kawahara and T. Matsuyama,,,,,
-Masumura2014RolePD,Role play dialogue topic model for language model adaptation in multi-party conversation speech recognition,Multimodal Approaches,2014,,R. Masumura and T. Oba and H. Masataki and O. Yoshioka and S. Takahashi,,,"2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",,
-Yumak2014ModellingMI,"Modelling multi-party interactions among virtual characters, robots, and humans",Multimodal Approaches,2014,,Zerrin Yumak and J. Ren and N. Magnenat-Thalmann and Junsong Yuan,,,PRESENCE: Teleoperators and Virtual Environments,,
-Yumak2014TrackingAF,Tracking and fusion for multiparty interaction with a virtual character and a social robot,Multimodal Approaches,2014,,Zerrin Yumak and J. Ren and N. Magnenat-Thalmann and Junsong Yuan,,,SIGGRAPH Asia 2014 Autonomous Virtual Humans and Social Robot for Telepresence,,
-ishii2015multimodal,Multimodal fusion using respiration and gaze for predicting next speaker in multi-party meetings,Multimodal Approaches,2015,Proceedings of the 2015 ACM on International Conference on Multimodal Interaction,"Ishii, Ryo and Kumano, Shiro and Otsuka, Kazuhiro",,,,,
-Sugiyama2015EstimatingRO,Estimating response obligation in multi-party human-robot dialogues,Multimodal Approaches,2015,,T. Sugiyama and Kotaro Funakoshi and M. Nakano and Kazunori Komatani,,,2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids),,
-Tsai2015MultimodalAD,multimodal addressee detection in multiparty dialogue systems,Multimodal Approaches,2015,"2015 {IEEE} International Conference on Acoustics, Speech and Signal
+175,Novick2013GroundingAT,Grounding and Turn-Taking in Multimodal Multiparty Conversation,Multimodal Approaches,,,,2013,HCI,D. Novick and Iv{\'a}n Gris,,,,,
+176,Tung2013MultipartyHI,Multi-party human-machine interaction using a smart multimodal digital signage,Multimodal Approaches,,,,2013,HCI,Tony Tung and R. Gomez and Tatsuya Kawahara and T. Matsuyama,,,,,
+177,Masumura2014RolePD,Role play dialogue topic model for language model adaptation in multi-party conversation speech recognition,Multimodal Approaches,,,,2014,,R. Masumura and T. Oba and H. Masataki and O. Yoshioka and S. Takahashi,,,"2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",,
+178,Yumak2014ModellingMI,"Modelling multi-party interactions among virtual characters, robots, and humans",Multimodal Approaches,,,,2014,,Zerrin Yumak and J. Ren and N. Magnenat-Thalmann and Junsong Yuan,,,PRESENCE: Teleoperators and Virtual Environments,,
+179,Yumak2014TrackingAF,Tracking and fusion for multiparty interaction with a virtual character and a social robot,Multimodal Approaches,,,,2014,,Zerrin Yumak and J. Ren and N. Magnenat-Thalmann and Junsong Yuan,,,SIGGRAPH Asia 2014 Autonomous Virtual Humans and Social Robot for Telepresence,,
+180,ishii2015multimodal,Multimodal fusion using respiration and gaze for predicting next speaker in multi-party meetings,Multimodal Approaches,,,,2015,Proceedings of the 2015 ACM on International Conference on Multimodal Interaction,"Ishii, Ryo and Kumano, Shiro and Otsuka, Kazuhiro",,,,,
+181,Sugiyama2015EstimatingRO,Estimating response obligation in multi-party human-robot dialogues,Multimodal Approaches,,,,2015,,T. Sugiyama and Kotaro Funakoshi and M. Nakano and Kazunori Komatani,,,2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids),,
+182,Tsai2015MultimodalAD,multimodal addressee detection in multiparty dialogue systems,Multimodal Approaches,,,,2015,"2015 {IEEE} International Conference on Acoustics, Speech and Signal
 Processing, {ICASSP} 2015, South Brisbane, Queensland, Australia,
 April 19-24, 2015","T. J. Tsai and
 Andreas Stolcke and
 Malcolm Slaney",{IEEE},https://doi.org/10.1109/ICASSP.2015.7178384,,10.1109/ICASSP.2015.7178384,
-Richter2016AreYT,Are you talking to me? Improving the robustness of dialogue systems in a multi party HRI scenario by incorporating gaze direction and lip movement of attendees,Multimodal Approaches,2016,,Viktor Richter and Birte Carlmeyer and Florian Lier and Sebastian Meyer zu Borgsen and David Schlangen and F. Kummert and S. Wachsmuth and B. Wrede,,,Proceedings of the Fourth International Conference on Human Agent Interaction,,
-Yumak2016MultimodalAM,Multimodal and multi-party social interactions,Multimodal Approaches,2016,Context Aware Human-Robot and Human-Agent Interaction,Zerrin Yumak and N. Magnenat-Thalmann,,,,,
-Kyt2017AugmentingMF,Augmenting Multi-Party Face-to-Face Interactions Amongst Strangers with User Generated Content,Multimodal Approaches,2017,,"Mikko Kyt{\""o} and D. McGookin",,,Computer Supported Cooperative Work (CSCW),,
-Rahimi2017AcousticProsodicEI,Acoustic-Prosodic Entrainment in Multi-party Spoken Dialogues: Does Simple Averaging Extend Existing Pair,Multimodal Approaches,2017,IWSDS,Zahra Rahimi and D. Litman and S. Paletz,,,,,
-zou2017conversational,Conversational Agent Learning Natural Gaze and Motion of Multi-Party Conversation from Example,Multimodal Approaches,2017,Proceedings of the 5th International Conference on Human Agent Interaction,"Zou, Shuai and Kuzushima, Kento and Mitake, Hironori and Hasegawa, Shoichi",,,,,
-Harel2018TowardsAG,Towards a generic framework for multi-party dialogue with virtual humans,Multimodal Approaches,2018,CASA 2018,R. Harel and Zerrin Yumak and F. Dignum,,,,,
-ishii2018analyzing,Analyzing gaze behavior and dialogue act during turn-taking for estimating empathy skill level,Multimodal Approaches,2018,Proceedings of the 20th ACM International Conference on Multimodal Interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Higashinaka, Ryuichiro and Tomita, Junji",,,,,
-ishii2018analyzing,Analyzing gaze behavior and dialogue act during turn-taking for estimating empathy skill level,Multimodal Approaches,2018,Proceedings of the 20th ACM International Conference on Multimodal Interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Higashinaka, Ryuichiro and Tomita, Junji",,,,,
-Makino2018PredictingTT,Predicting Turn Taking from Gaze Transition Patterns Considering Participation Status in Multi-Party Conversation,Multimodal Approaches,2018,Proceedings of the World Congress on Engineering and Computer Science,"Makino, Takashi and Takegawa, Yoshinari and Hirata, Keiji",,,,,
-Divekar2019EmbodiedCA,Embodied Conversational AI Agents in a Multi-modal Multi-agent Competitive Dialogue,Multimodal Approaches,2019,"Proceedings of the Twenty-Eighth International Joint Conference on
+183,Richter2016AreYT,Are you talking to me? Improving the robustness of dialogue systems in a multi party HRI scenario by incorporating gaze direction and lip movement of attendees,Multimodal Approaches,,,,2016,,Viktor Richter and Birte Carlmeyer and Florian Lier and Sebastian Meyer zu Borgsen and David Schlangen and F. Kummert and S. Wachsmuth and B. Wrede,,,Proceedings of the Fourth International Conference on Human Agent Interaction,,
+184,Yumak2016MultimodalAM,Multimodal and multi-party social interactions,Multimodal Approaches,,,,2016,Context Aware Human-Robot and Human-Agent Interaction,Zerrin Yumak and N. Magnenat-Thalmann,,,,,
+185,Kyt2017AugmentingMF,Augmenting Multi-Party Face-to-Face Interactions Amongst Strangers with User Generated Content,Multimodal Approaches,,,,2017,,"Mikko Kyt{\""o} and D. McGookin",,,Computer Supported Cooperative Work (CSCW),,
+186,Rahimi2017AcousticProsodicEI,Acoustic-Prosodic Entrainment in Multi-party Spoken Dialogues: Does Simple Averaging Extend Existing Pair,Multimodal Approaches,,,,2017,IWSDS,Zahra Rahimi and D. Litman and S. Paletz,,,,,
+187,zou2017conversational,Conversational Agent Learning Natural Gaze and Motion of Multi-Party Conversation from Example,Multimodal Approaches,,,,2017,Proceedings of the 5th International Conference on Human Agent Interaction,"Zou, Shuai and Kuzushima, Kento and Mitake, Hironori and Hasegawa, Shoichi",,,,,
+188,Harel2018TowardsAG,Towards a generic framework for multi-party dialogue with virtual humans,Multimodal Approaches,,,,2018,CASA 2018,R. Harel and Zerrin Yumak and F. Dignum,,,,,
+189,ishii2018analyzing,Analyzing gaze behavior and dialogue act during turn-taking for estimating empathy skill level,Multimodal Approaches,,,,2018,Proceedings of the 20th ACM International Conference on Multimodal Interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Higashinaka, Ryuichiro and Tomita, Junji",,,,,
+190,ishii2018analyzing,Analyzing gaze behavior and dialogue act during turn-taking for estimating empathy skill level,Multimodal Approaches,,,,2018,Proceedings of the 20th ACM International Conference on Multimodal Interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Higashinaka, Ryuichiro and Tomita, Junji",,,,,
+191,Makino2018PredictingTT,Predicting Turn Taking from Gaze Transition Patterns Considering Participation Status in Multi-Party Conversation,Multimodal Approaches,,,,2018,Proceedings of the World Congress on Engineering and Computer Science,"Makino, Takashi and Takegawa, Yoshinari and Hirata, Keiji",,,,,
+192,Divekar2019EmbodiedCA,Embodied Conversational AI Agents in a Multi-modal Multi-agent Competitive Dialogue,Multimodal Approaches,,,,2019,"Proceedings of the Twenty-Eighth International Joint Conference on
 Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
 2019","Rahul R. Divekar and
 Xiangyang Mou and
@@ -403,59 +412,59 @@ Lisha Chen and
 Ma{\'{\i}}ra Gatti de Bayser and
 Melina Alberio Guerra and
 Hui Su",ijcai.org,https://doi.org/10.24963/ijcai.2019/940,,10.24963/ijcai.2019/940,
-Ishii2019PredictionOW,Prediction of Who Will Be Next Speaker and When Using Mouth-Opening Pattern in Multi-Party Conversation,Multimodal Approaches,2019,,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Higashinaka, Ryuichiro and Tomita, Junji",Multidisciplinary Digital Publishing Institute,,Multimodal Technologies and Interaction,,
-Kantharaju2020MultimodalAO,Multimodal Analysis of Cohesion in Multi-party Interactions,Multimodal Approaches,2020,Proceedings of the 12th Language Resources and Evaluation Conference,"Bangalore Kantharaju, Reshmashree  and
+193,Ishii2019PredictionOW,Prediction of Who Will Be Next Speaker and When Using Mouth-Opening Pattern in Multi-Party Conversation,Multimodal Approaches,,,,2019,,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Higashinaka, Ryuichiro and Tomita, Junji",Multidisciplinary Digital Publishing Institute,,Multimodal Technologies and Interaction,,
+194,Kantharaju2020MultimodalAO,Multimodal Analysis of Cohesion in Multi-party Interactions,Multimodal Approaches,,,,2020,Proceedings of the 12th Language Resources and Evaluation Conference,"Bangalore Kantharaju, Reshmashree  and
 Langlet, Caroline  and
 Barange, Mukesh  and
 Clavel, Chlo{\'e}  and
 Pelachaud, Catherine",European Language Resources Association,https://www.aclweb.org/anthology/2020.lrec-1.63,,,979-10-95546-34-4
-Saha2020TowardsEM,Towards Emotion-aided Multi-modal Dialogue Act Classification,Multimodal Approaches,2020,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics,"Saha, Tulika  and
+195,Saha2020TowardsEM,Towards Emotion-aided Multi-modal Dialogue Act Classification,Multimodal Approaches,,,,2020,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics,"Saha, Tulika  and
 Patra, Aditya  and
 Saha, Sriparna  and
 Bhattacharyya, Pushpak",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.acl-main.402,,10.18653/v1/2020.acl-main.402,
-Lerner1996OnTP,On the place of linguistic resources in the organization of talk-in-interaction:‘Second person’reference in multi-party conversation,Pronouns,1996,,G. Lerner,,,Pragmatics,,
-Mller2006AutomaticDO,Automatic detection of nonreferential it in spoken multi-party dialog,Pronouns,2006,11th Conference of the {E}uropean Chapter of the Association for Computational Linguistics,"M{\""u}ller, Christoph",Association for Computational Linguistics,https://www.aclweb.org/anthology/E06-1007,,,
-Gupta2007ResolvingI,Resolving “you” in multi-party dialog,Pronouns,2007,Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue,"Gupta, Surabhi  and
+196,Lerner1996OnTP,On the place of linguistic resources in the organization of talk-in-interaction:‘Second person’reference in multi-party conversation,Pronouns,,,,1996,,G. Lerner,,,Pragmatics,,
+197,Mller2006AutomaticDO,Automatic detection of nonreferential it in spoken multi-party dialog,Pronouns,-,-,ICSI,2006,11th Conference of the {E}uropean Chapter of the Association for Computational Linguistics,"M{\""u}ller, Christoph",Association for Computational Linguistics,https://www.aclweb.org/anthology/E06-1007,,,
+198,Gupta2007ResolvingI,Resolving “you” in multi-party dialog,Pronouns,-,-,AMI,2007,Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue,"Gupta, Surabhi  and
 Niekrasz, John  and
 Purver, Matthew  and
 Jurafsky, Dan",Association for Computational Linguistics,https://www.aclweb.org/anthology/2007.sigdial-1.40,,,
-Muller2007ResolvingIT,"Resolving it, this, and that in unrestricted multi-party dialog",Pronouns,2007,Proceedings of the 45th Annual Meeting of the Association of Computational Linguistics,"M{\""u}ller, Christoph",Association for Computational Linguistics,https://www.aclweb.org/anthology/P07-1103,,,
-Frampton2009WhoI,Who is “you”? combining linguistic and gaze features to resolve second-person references in dialogue,Pronouns,2009,Proceedings of the 12th Conference of the {E}uropean Chapter of the {ACL} ({EACL} 2009),"Frampton, Matthew  and
+199,Muller2007ResolvingIT,"Resolving it, this, and that in unrestricted multi-party dialog",Pronouns,,,,2007,Proceedings of the 45th Annual Meeting of the Association of Computational Linguistics,"M{\""u}ller, Christoph",Association for Computational Linguistics,https://www.aclweb.org/anthology/P07-1103,,,
+200,Frampton2009WhoI,Who is “you”? combining linguistic and gaze features to resolve second-person references in dialogue,Pronouns,-,-,AMI,2009,Proceedings of the 12th Conference of the {E}uropean Chapter of the {ACL} ({EACL} 2009),"Frampton, Matthew  and
 Fern{\'a}ndez, Raquel  and
 Ehlen, Patrick  and
 Christoudias, Mario  and
 Darrell, Trevor  and
 Peters, Stanley",Association for Computational Linguistics,https://www.aclweb.org/anthology/E09-1032,,,
-Visser2013AMF,A model for incremental grounding in spoken dialogue systems,Response Selection,2013,,T. Visser and D. Traum and D. DeVault and R. Akker,,,Journal on Multimodal User Interfaces,,
-Ouchi2016AddresseeAR,Addressee and response selection for multi-party conversation,Response Selection,2016,Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing,"Ouchi, Hiroki  and
+201,Visser2013AMF,A model for incremental grounding in spoken dialogue systems,Response Selection,,,,2013,,T. Visser and D. Traum and D. DeVault and R. Akker,,,Journal on Multimodal User Interfaces,,
+202,Ouchi2016AddresseeAR,Addressee and response selection for multi-party conversation,Response Selection,2,active-simulative,Ubuntu IRC,2016,Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing,"Ouchi, Hiroki  and
 Tsuboi, Yuta",Association for Computational Linguistics,https://www.aclweb.org/anthology/D16-1231,,10.18653/v1/D16-1231,
-Zhang2018WhenLI,When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations,Response Selection,2018,NLPCC,Haisong Zhang and Zhangming Chan and Yan Song and Dongyan Zhao and R. Yan,,,,,
-Liu2019IncorporatingIC,Incorporating Interlocutor-Aware Context into Response Generation on Multi-Party Chatbots,Response Selection,2019,Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL),"Liu, Cao  and
+203,Zhang2018WhenLI,When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations,Response Selection,2,active-simulative,Ubuntu IRC,2018,NLPCC,Haisong Zhang and Zhangming Chan and Yan Song and Dongyan Zhao and R. Yan,,,,,
+204,Liu2019IncorporatingIC,Incorporating Interlocutor-Aware Context into Response Generation on Multi-Party Chatbots,Response Selection,2,active-simulative,Ubuntu IRC,2019,Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL),"Liu, Cao  and
 Liu, Kang  and
 He, Shizhu  and
 Nie, Zaiqing  and
 Zhao, Jun",Association for Computational Linguistics,https://www.aclweb.org/anthology/K19-1067,,10.18653/v1/K19-1067,
-Jia2020MultiturnRS,Multi-turn Response Selection using Dialogue Dependency Relations,Response Selection,2020,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),"Jia, Qi  and
+205,Jia2020MultiturnRS,Multi-turn Response Selection using Dialogue Dependency Relations,Response Selection,2,active-simulative,Ubuntu ,2020,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),"Jia, Qi  and
 Liu, Yizhu  and
 Ren, Siyu  and
 Zhu, Kenny  and
 Tang, Haifeng",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.emnlp-main.150,,10.18653/v1/2020.emnlp-main.150,
-Wang2020ResponseSF,Response Selection for Multi-Party Conversations with Dynamic Topic Tracking,Response Selection,2020,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),"Wang, Weishi  and
+206,Wang2020ResponseSF,Response Selection for Multi-Party Conversations with Dynamic Topic Tracking,Response Selection,2,active-simulative,Ubuntu IRC,2020,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),"Wang, Weishi  and
 Hoi, Steven C.H.  and
 Joty, Shafiq",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.emnlp-main.533,,10.18653/v1/2020.emnlp-main.533,
-Ji2004MultiSpeakerLM,Multi-Speaker Language Modeling,Topic Unsure,2004,Proceedings of {HLT}-{NAACL} 2004: Short Papers,"Ji, Gang  and
+207,Ji2004MultiSpeakerLM,Multi-Speaker Language Modeling,Topic Unsure,,,,2004,Proceedings of {HLT}-{NAACL} 2004: Short Papers,"Ji, Gang  and
 Bilmes, Jeffrey",Association for Computational Linguistics,https://www.aclweb.org/anthology/N04-4034,,,
-Mieskes2008ATD,A Three-stage Disfluency Classifier for Multi Party Dialogues,Topic Unsure,2008,Proceedings of the Sixth International Conference on Language Resources and Evaluation ({LREC}'08),"Mieskes, Margot  and
+208,Mieskes2008ATD,A Three-stage Disfluency Classifier for Multi Party Dialogues,Topic Unsure,,,,2008,Proceedings of the Sixth International Conference on Language Resources and Evaluation ({LREC}'08),"Mieskes, Margot  and
 Strube, Michael",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2008/pdf/665_paper.pdf,,,
-Mayfield2012HierarchicalCS,Hierarchical conversation structure prediction in multi-party chat,Topic Unsure,2012,Proceedings of the 13th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Mayfield, Elijah  and
+209,Mayfield2012HierarchicalCS,Hierarchical conversation structure prediction in multi-party chat,Topic Unsure,,,,2012,Proceedings of the 13th Annual Meeting of the Special Interest Group on Discourse and Dialogue,"Mayfield, Elijah  and
 Adamson, David  and
 Penstein Ros{\'e}, Carolyn",Association for Computational Linguistics,https://www.aclweb.org/anthology/W12-1607,,,
-Shaikh2012ModelingII,Modeling influence in online multi-party discourse,MPD Discourse,2012,,S. Shaikh and T. Strzalkowski and Jennifer Stromer-Galley and G. Broadwell and S. Taylor and Ting Liu and V. Ravishankar and Xiaoai Ren and Umit Boz,,,2012 Second International Conference on Cloud and Green Computing,,
-VargasUrpi2015DialogueII,Dialogue interpreting in multi-party encounters: two examples from educational settings,Topic Unsure,2015,,Mireia Vargas-Urpí,,,,,
-de2018specifying,Specifying and implementing multi-party conversation rules with finite-state-automata,Topic Unsure,2018,AAAI Workshops,"de Bayser, Maira Gatti and Guerra, Melina Alberio and Cavalin, Paulo R and Pinhanez, Claudio S",,,,,
-Rahimi2018WeightingMB,Weighting model based on group dynamics to measure convergence in multi-party dialogue,Topic Unsure,2018,Proceedings of the 19th Annual {SIG}dial Meeting on Discourse and Dialogue,"Rahimi, Zahra  and
+210,Shaikh2012ModelingII,Modeling influence in online multi-party discourse,MPD Discourse,,,,2012,,S. Shaikh and T. Strzalkowski and Jennifer Stromer-Galley and G. Broadwell and S. Taylor and Ting Liu and V. Ravishankar and Xiaoai Ren and Umit Boz,,,2012 Second International Conference on Cloud and Green Computing,,
+211,VargasUrpi2015DialogueII,Dialogue interpreting in multi-party encounters: two examples from educational settings,Topic Unsure,,,,2015,,Mireia Vargas-Urpí,,,,,
+212,de2018specifying,Specifying and implementing multi-party conversation rules with finite-state-automata,Topic Unsure,,,,2018,AAAI Workshops,"de Bayser, Maira Gatti and Guerra, Melina Alberio and Cavalin, Paulo R and Pinhanez, Claudio S",,,,,
+213,Rahimi2018WeightingMB,Weighting model based on group dynamics to measure convergence in multi-party dialogue,Topic Unsure,,,,2018,Proceedings of the 19th Annual {SIG}dial Meeting on Discourse and Dialogue,"Rahimi, Zahra  and
 Litman, Diane",Association for Computational Linguistics,https://www.aclweb.org/anthology/W18-5046,,10.18653/v1/W18-5046,
-Tan2019ContextAwareCT,Context-Aware Conversation Thread Detection in Multi-Party Chat,Topic Unsure,2019,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),"Tan, Ming  and
+214,Tan2019ContextAwareCT,Context-Aware Conversation Thread Detection in Multi-Party Chat,Topic Unsure,,,,2019,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),"Tan, Ming  and
 Wang, Dakuo  and
 Gao, Yupeng  and
 Wang, Haoyu  and
@@ -463,25 +472,27 @@ Potdar, Saloni  and
 Guo, Xiaoxiao  and
 Chang, Shiyu  and
 Yu, Mo",Association for Computational Linguistics,https://www.aclweb.org/anthology/D19-1682,,10.18653/v1/D19-1682,
-Liu2020FillingTG,Filling the Gap of Utterance-aware and Speaker-aware Representation for Multi-turn Dialogue,Topic Unsure,2020,,"Liu, Longxiang and Zhang, Zhuosheng and Zhao, Hai and Zhou, Xi and Zhou, Xiang",,,arXiv preprint arXiv:2009.06504,,
-Jovanovic2004TowardsAA,Towards automatic addressee identification in multi-party dialogues,Turn Taking / Speaker Interaction,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Jovanovic, Natasa  and
+215,Liu2020FillingTG,Filling the Gap of Utterance-aware and Speaker-aware Representation for Multi-turn Dialogue,Topic Unsure,,,,2020,,"Liu, Longxiang and Zhang, Zhuosheng and Zhao, Hai and Zhou, Xi and Zhou, Xiang",,,arXiv preprint arXiv:2009.06504,,
+216,Jovanovic2004TowardsAA,Towards automatic addressee identification in multi-party dialogues,Turn Taking / Speaker Interaction,-,-,IDIAP Meetings,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Jovanovic, Natasa  and
 op den Akker, Rieks",Association for Computational Linguistics,https://www.aclweb.org/anthology/W04-2317,,,
-Branigan2007SyntacticAA,Syntactic alignment and participant role in dialogue,Turn Taking / Speaker Interaction,2007,,H. Branigan and M. Pickering and J. Mclean and A. Cleland,,,Cognition,,
-Popescu2008ARS,A rhetorical structuring model for natural language generation in human-computer multi-party dialogue,Turn Taking / Speaker Interaction,2008,,Vladimir Popescu and J. Caelen,,,,,
-DeVault2009CanIF,Can I finish? Learning when to respond to incremental interpretation results in interactive dialogue,Turn Taking / Speaker Interaction,2009,Proceedings of the {SIGDIAL} 2009 Conference,"DeVault, David  and
+217,Jovanovic2004TowardsAA,Towards automatic addressee identification in multi-party dialogues,Turn Taking / Speaker Interaction,3,passive,IDIAP Meetings,2004,Proceedings of the 5th {SIG}dial Workshop on Discourse and Dialogue at {HLT}-{NAACL} 2004,"Jovanovic, Natasa  and
+op den Akker, Rieks",Association for Computational Linguistics,https://www.aclweb.org/anthology/W04-2317,,,
+218,Branigan2007SyntacticAA,Syntactic alignment and participant role in dialogue,Turn Taking / Speaker Interaction,,,,2007,,H. Branigan and M. Pickering and J. Mclean and A. Cleland,,,Cognition,,
+219,Popescu2008ARS,A rhetorical structuring model for natural language generation in human-computer multi-party dialogue,Turn Taking / Speaker Interaction,,,,2008,,Vladimir Popescu and J. Caelen,,,,,
+220,DeVault2009CanIF,Can I finish? Learning when to respond to incremental interpretation results in interactive dialogue,Turn Taking / Speaker Interaction,,,,2009,Proceedings of the {SIGDIAL} 2009 Conference,"DeVault, David  and
 Sagae, Kenji  and
 Traum, David",Association for Computational Linguistics,https://www.aclweb.org/anthology/W09-3902,,,
-Hawes2009ElementsOA,Elements of a computational model for multi-party discourse: The turn-taking behavior of Supreme Court justices,Turn Taking / Speaker Interaction,2009,,T. Hawes and J. Lin and P. Resnik,,,J. Assoc. Inf. Sci. Technol.,,
-popescu2009effective,Effective speaker tracking strategies for multi-party human-computer dialogue,Turn Taking / Speaker Interaction,2009,Intelligent Systems and Technologies,"Popescu, Vladimir and Burileanu, Corneliu and Caelen, Jean",Springer,,,,
-Kurtic2010ResourcesFT,"Resources for turn competition in overlap in multi-party conversations: speech rate, pausing and duration",Turn Taking / Speaker Interaction,2010,INTERSPEECH,Emina Kurtic and G. Brown and B. Wells,,,,,
-Laskowski2010ModelingNO,Modeling norms of turn-taking in multi-party conversation,Turn Taking / Speaker Interaction,2010,Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics,"Laskowski, Kornel",Association for Computational Linguistics,https://www.aclweb.org/anthology/P10-1102,,,
-Laskowski2011ASN,A single-port non-parametric model of turn-taking in multi-party conversation,Turn Taking / Speaker Interaction,2011,,K. Laskowski and Jens Edlund and M. Heldner,,,"2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",,
-Vinciarelli2011UnderstandingSS,Understanding social signals in multi-party conversations: Automatic recognition of socio-emotional roles in the ami meeting corpus,Turn Taking / Speaker Interaction,2011,,A. Vinciarelli and F. Valente and Sree Harsha Yella and A. Sapru,,,"2011 IEEE International Conference on Systems, Man, and Cybernetics",,
-Laskowski2012OnTD,On the Dynamics of Overlap in Multi-Party Conversation,Turn Taking / Speaker Interaction,2012,INTERSPEECH,K. Laskowski and M. Heldner and Jens Edlund,,,,,
-Ma2017TextbasedSI,Text-based Speaker Identification on Multiparty Dialogues Using Multi-document Convolutional Neural Networks,Turn Taking / Speaker Interaction,2017,"Proceedings of {ACL} 2017, Student Research Workshop","Ma, Kaixin  and
+221,Hawes2009ElementsOA,Elements of a computational model for multi-party discourse: The turn-taking behavior of Supreme Court justices,Turn Taking / Speaker Interaction,3,passive,Transcripts of Supreme Court,2009,,T. Hawes and J. Lin and P. Resnik,,,J. Assoc. Inf. Sci. Technol.,,
+222,popescu2009effective,Effective speaker tracking strategies for multi-party human-computer dialogue,Turn Taking / Speaker Interaction,,,,2009,Intelligent Systems and Technologies,"Popescu, Vladimir and Burileanu, Corneliu and Caelen, Jean",Springer,,,,
+223,Kurtic2010ResourcesFT,"Resources for turn competition in overlap in multi-party conversations: speech rate, pausing and duration",Turn Taking / Speaker Interaction,,,,2010,INTERSPEECH,Emina Kurtic and G. Brown and B. Wells,,,,,
+224,Laskowski2010ModelingNO,Modeling norms of turn-taking in multi-party conversation,Turn Taking / Speaker Interaction,,,,2010,Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics,"Laskowski, Kornel",Association for Computational Linguistics,https://www.aclweb.org/anthology/P10-1102,,,
+225,Laskowski2011ASN,A single-port non-parametric model of turn-taking in multi-party conversation,Turn Taking / Speaker Interaction,,,,2011,,K. Laskowski and Jens Edlund and M. Heldner,,,"2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",,
+226,Vinciarelli2011UnderstandingSS,Understanding social signals in multi-party conversations: Automatic recognition of socio-emotional roles in the ami meeting corpus,Turn Taking / Speaker Interaction,,,,2011,,A. Vinciarelli and F. Valente and Sree Harsha Yella and A. Sapru,,,"2011 IEEE International Conference on Systems, Man, and Cybernetics",,
+227,Laskowski2012OnTD,On the Dynamics of Overlap in Multi-Party Conversation,Turn Taking / Speaker Interaction,,,,2012,INTERSPEECH,K. Laskowski and M. Heldner and Jens Edlund,,,,,
+228,Ma2017TextbasedSI,Text-based Speaker Identification on Multiparty Dialogues Using Multi-document Convolutional Neural Networks,Turn Taking / Speaker Interaction,2,active-simulative,OPUS,2017,"Proceedings of {ACL} 2017, Student Research Workshop","Ma, Kaixin  and
 Xiao, Catherine  and
 Choi, Jinho D.",Association for Computational Linguistics,https://www.aclweb.org/anthology/P17-3009,,,
-Zhang2018AddresseeAR,Addressee and response selection in multi-party conversations with speaker interaction rnns,Turn Taking / Speaker Interaction,2018,"Proceedings of the Thirty-Second {AAAI} Conference on Artificial Intelligence,
+229,Zhang2018AddresseeAR,Addressee and response selection in multi-party conversations with speaker interaction rnns,Turn Taking / Speaker Interaction,2,active-simulative,Ubuntu IRC,2018,"Proceedings of the Thirty-Second {AAAI} Conference on Artificial Intelligence,
 (AAAI-18), the 30th innovative Applications of Artificial Intelligence
 (IAAI-18), and the 8th {AAAI} Symposium on Educational Advances in
 Artificial Intelligence (EAAI-18), New Orleans, Louisiana, USA, February
@@ -489,18 +500,18 @@ Artificial Intelligence (EAAI-18), New Orleans, Louisiana, USA, February
 Honglak Lee and
 Lazaros Polymenakos and
 Dragomir R. Radev",{AAAI} Press,https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16051,,,
-Bayser2019LearningMT,Learning Multi-Party Turn-Taking Models from Dialogue Logs,Turn Taking / Speaker Interaction,2019,,"de Bayser, Maira Gatti and Cavalin, Paulo and Pinhanez, Claudio and Zadrozny, Bianca",,,arXiv preprint arXiv:1907.02090,,
-Lan2019WhenTT,When to Talk: Chatbot Controls the Timing of Talking during Multi-turn Open-domain Dialogue Generation,Turn Taking / Speaker Interaction,2019,,"Lan, Tian and Mao, Xianling and Huang, Heyan and Wei, Wei",,,arXiv preprint arXiv:1912.09879,,
-Le2019WhoIS,Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations,Turn Taking / Speaker Interaction,2019,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),"Le, Ran  and
+230,Bayser2019LearningMT,Learning Multi-Party Turn-Taking Models from Dialogue Logs,Turn Taking / Speaker Interaction,1 and 2,active,"sitcom, finch, multibotwoz",2019,,"de Bayser, Maira Gatti and Cavalin, Paulo and Pinhanez, Claudio and Zadrozny, Bianca",,,arXiv preprint arXiv:1907.02090,,
+231,Lan2019WhenTT,When to Talk: Chatbot Controls the Timing of Talking during Multi-turn Open-domain Dialogue Generation,Turn Taking / Speaker Interaction,,,,2019,,"Lan, Tian and Mao, Xianling and Huang, Heyan and Wei, Wei",,,arXiv preprint arXiv:1912.09879,,
+232,Le2019WhoIS,Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations,Turn Taking / Speaker Interaction,2,active-simulative,Ubuntu IRC,2019,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),"Le, Ran  and
 Hu, Wenpeng  and
 Shang, Mingyue  and
 You, Zhenjun  and
 Bing, Lidong  and
 Zhao, Dongyan  and
 Yan, Rui",Association for Computational Linguistics,https://www.aclweb.org/anthology/D19-1199,,10.18653/v1/D19-1199,
-Bayser2020AHS,A Hybrid Solution to Learn Turn-Taking in Multi-Party Service-based Chat Groups,Turn Taking / Speaker Interaction,2020,,"de Bayser, Ma{\i}ra Gatti and Guerra, Melina Alberio and Cavalin, Paulo and Pinhanez, Claudio",,,Interactions,,
-Kim2020SpeakerInformedTA,Speaker-Informed time-and-Content-Aware attention for spoken language understanding,Turn Taking / Speaker Interaction,2020,,Jonggu Kim and Yewon Jeong and Jong-Hyeok Lee,,,Comput. Speech Lang.,,
-Qiu2020StructuredAF,Structured Attention for Unsupervised Dialogue Structure Induction,Turn Taking / Speaker Interaction,2020,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),"Qiu, Liang  and
+233,Bayser2020AHS,A Hybrid Solution to Learn Turn-Taking in Multi-Party Service-based Chat Groups,Turn Taking / Speaker Interaction,,,,2020,,"de Bayser, Ma{\i}ra Gatti and Guerra, Melina Alberio and Cavalin, Paulo and Pinhanez, Claudio",,,Interactions,,
+234,Kim2020SpeakerInformedTA,Speaker-Informed time-and-Content-Aware attention for spoken language understanding,Turn Taking / Speaker Interaction,,,,2020,,Jonggu Kim and Yewon Jeong and Jong-Hyeok Lee,,,Comput. Speech Lang.,,
+235,Qiu2020StructuredAF,Structured Attention for Unsupervised Dialogue Structure Induction,Turn Taking / Speaker Interaction,1,active-additive,Ubuntu IRC,2020,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),"Qiu, Liang  and
 Zhao, Yizhou  and
 Shi, Weiyan  and
 Liang, Yuan  and
@@ -508,34 +519,34 @@ Shi, Feng  and
 Yuan, Tao  and
 Yu, Zhou  and
 Zhu, Song-Chun",Association for Computational Linguistics,https://www.aclweb.org/anthology/2020.emnlp-main.148,,10.18653/v1/2020.emnlp-main.148,
-zhang2020modeling,"PATENT: Modeling multiparty conversation dynamics: speaker, response, addressee selection using a novel deep learning approach",Turn Taking / Speaker Interaction,2020,,"Zhang, Rui and Polymenakos, Lazaros and Radev, Dragomir and Nahamoo, David and Honglak, LEE",Google Patents,,,,
-Luo2018EmotionXDLCSB,EmotionX-DLC: self-attentive BiLSTM for detecting sequential emotions in dialogue,Applications,2018,Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media,"Luo, Linkai  and
+236,zhang2020modeling,"PATENT: Modeling multiparty conversation dynamics: speaker, response, addressee selection using a novel deep learning approach",Turn Taking / Speaker Interaction,,,,2020,,"Zhang, Rui and Polymenakos, Lazaros and Radev, Dragomir and Nahamoo, David and Honglak, LEE",Google Patents,,,,
+237,Luo2018EmotionXDLCSB,EmotionX-DLC: self-attentive BiLSTM for detecting sequential emotions in dialogue,Applications,,,,2018,Proceedings of the Sixth International Workshop on Natural Language Processing for Social Media,"Luo, Linkai  and
 Yang, Haiqin  and
 Chin, Francis Y. L.",Association for Computational Linguistics,https://www.aclweb.org/anthology/W18-3506,,10.18653/v1/W18-3506,
-Lowe2017TrainingED,Training end-to-end dialogue systems with the ubuntu dialogue corpus,Conversational AI Systems,2017,,R. Lowe and Nissan Pow and I. Serban and Laurent Charlin and C. Liu and Joelle Pineau,,,Dialogue Discourse,,
-karatas2016namida,NAMIDA: Sociable Driving Agents with Multiparty Conversation,Applications,2016,Proceedings of the Fourth International Conference on Human Agent Interaction,"Karatas, Nihan and Yoshikawa, Soshi and Okada, Michio",,,,,
-barlow2000corpus,"Corpus of Spoken, Professional American-English",Corpora,2000,,"Barlow, Michael",Rice University,,,,
-Kyt2006GuideTA,Guide to a Corpus of English Dialogues 1560-1760,Corpora,2006,,"Kyt{\""o}, Merja and Walker, Terry",Acta Universitatis Upsaliensis,,,,
-SimpsonVlach2006TheMH,The MICASE Handbook: A Resource for Users of the Michigan Corpus of Academic Spoken English,Corpora,2006,,"Simpson-Vlach, Rita C and Leicher, Sheryl",University of Michigan Press ELT,,,,
-davies2013corpus,Corpus of american soap operas,Corpora,2013,,"Davies, Mark",Brigham Young University,,,,
-Leech2001WordFI,Word Frequencies in Written and Spoken English: based on the British National Corpus,EDA / CSS,2001,,"Leech, Geoffrey and Rayson, P and Wilson, A",Longman,,,,
-Stenstrm2002TrendsIT,"Trends in Teenage Talk: Corpus compilation, analysis and findings",EDA / CSS,2002,,"Stenstr{\""o}m, Anna-Brita and Andersen, Gisle and Hasund, Ingrid Kristine",John Benjamins Publishing,,,,
-matsusaka2003conversation,Conversation robot participating in group conversation,,2003,,"Matsusaka, Yosuke and Tojo, Tsuyoshi and Kobayashi, Tetsunori","The Institute of Electronics, Information and Communication Engineers",,IEICE TRANSACTIONS on Information and Systems,,
-zheng2005designing,"Designing multiparty interaction support in Elva, an embodied tour guide",Applications,2005,Proceedings of the fourth international joint conference on Autonomous agents and multiagent systems,"Zheng, Jun and Yuan, Xiang and Chee, Yam San",,,,,
-niekrasz2006nomos,NOMOS: A Semantic Web Software Framework for Annotation of Multimodal Corpora.,Annotation or Tool,2006,Proceedings of the Fifth International Conference on Language Resources and Evaluation ({LREC}{'}06),"Niekrasz, John  and
+238,Lowe2017TrainingED,Training end-to-end dialogue systems with the ubuntu dialogue corpus,Conversational AI Systems,,,,2017,,R. Lowe and Nissan Pow and I. Serban and Laurent Charlin and C. Liu and Joelle Pineau,,,Dialogue Discourse,,
+239,karatas2016namida,NAMIDA: Sociable Driving Agents with Multiparty Conversation,Applications,1,active-additive,*,2016,Proceedings of the Fourth International Conference on Human Agent Interaction,"Karatas, Nihan and Yoshikawa, Soshi and Okada, Michio",,,,,
+240,barlow2000corpus,"Corpus of Spoken, Professional American-English",Corpora,,,,2000,,"Barlow, Michael",Rice University,,,,
+241,Kyt2006GuideTA,Guide to a Corpus of English Dialogues 1560-1760,Corpora,,,,2006,,"Kyt{\""o}, Merja and Walker, Terry",Acta Universitatis Upsaliensis,,,,
+242,SimpsonVlach2006TheMH,The MICASE Handbook: A Resource for Users of the Michigan Corpus of Academic Spoken English,Corpora,,,,2006,,"Simpson-Vlach, Rita C and Leicher, Sheryl",University of Michigan Press ELT,,,,
+243,davies2013corpus,Corpus of american soap operas,Corpora,,,,2013,,"Davies, Mark",Brigham Young University,,,,
+244,Leech2001WordFI,Word Frequencies in Written and Spoken English: based on the British National Corpus,EDA / CSS,,,,2001,,"Leech, Geoffrey and Rayson, P and Wilson, A",Longman,,,,
+245,Stenstrm2002TrendsIT,"Trends in Teenage Talk: Corpus compilation, analysis and findings",EDA / CSS,,,,2002,,"Stenstr{\""o}m, Anna-Brita and Andersen, Gisle and Hasund, Ingrid Kristine",John Benjamins Publishing,,,,
+246,matsusaka2003conversation,Conversation robot participating in group conversation,,,,,2003,,"Matsusaka, Yosuke and Tojo, Tsuyoshi and Kobayashi, Tetsunori","The Institute of Electronics, Information and Communication Engineers",,IEICE TRANSACTIONS on Information and Systems,,
+247,zheng2005designing,"Designing multiparty interaction support in Elva, an embodied tour guide",Applications,,,,2005,Proceedings of the fourth international joint conference on Autonomous agents and multiagent systems,"Zheng, Jun and Yuan, Xiang and Chee, Yam San",,,,,
+248,niekrasz2006nomos,NOMOS: A Semantic Web Software Framework for Annotation of Multimodal Corpora.,Annotation or Tool,,,,2006,Proceedings of the Fifth International Conference on Language Resources and Evaluation ({LREC}{'}06),"Niekrasz, John  and
 Gruenstein, Alexander",European Language Resources Association (ELRA),http://www.lrec-conf.org/proceedings/lrec2006/pdf/777_pdf.pdf,,,
-ba2008multi,Multi-party focus of attention recognition in meetings from head pose and multimodal contextual cues,Multimodal Approaches,2008,"2008 IEEE International Conference on Acoustics, Speech and Signal Processing","Ba, Sileye O and Odobez, Jean-Marc",,,,,
-bonzon2011outcomes,On the outcomes of multiparty persuasion,,2011,International Workshop on Argumentation in Multi-Agent Systems,"Bonzon, Elise and Maudet, Nicolas",,,,,
-ishii2013predicting,Predicting next speaker and timing from gaze transition patterns in multi-party meetings,Multimodal Approaches,2013,Proceedings of the 15th ACM on International conference on multimodal interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Matsuda, Masafumi and Yamato, Junji",,,,,
-ishii2014analysis1,Analysis and modeling of next speaking start timing based on gaze behavior in multi-party meetings,Multimodal Approaches,2014,"2014 IEEE international conference on acoustics, speech and signal processing (ICASSP)","Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji",,,,,
-ishii2014analysis2,"Analysis of respiration for prediction of"" who will be next speaker and when?"" in multi-party meetings",Multimodal Approaches,2014,Proceedings of the 16th international conference on multimodal interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji",,,,,
-ishii2014analysis3,Analysis of timing structure of eye contact in turn-changing,Multimodal Approaches,2014,Proceedings of the 7th Workshop on Eye Gaze in Intelligent Human Machine Interaction: Eye-Gaze \& Multimodality,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji",,,,,
-ishii2015predicting,Predicting next speaker based on head movement in multi-party meetings,Multimodal Approaches,2015,"2015 {IEEE} International Conference on Acoustics, Speech and Signal
+249,ba2008multi,Multi-party focus of attention recognition in meetings from head pose and multimodal contextual cues,Multimodal Approaches,,,,2008,"2008 IEEE International Conference on Acoustics, Speech and Signal Processing","Ba, Sileye O and Odobez, Jean-Marc",,,,,
+250,bonzon2011outcomes,On the outcomes of multiparty persuasion,,,,,2011,International Workshop on Argumentation in Multi-Agent Systems,"Bonzon, Elise and Maudet, Nicolas",,,,,
+251,ishii2013predicting,Predicting next speaker and timing from gaze transition patterns in multi-party meetings,Multimodal Approaches,,,,2013,Proceedings of the 15th ACM on International conference on multimodal interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Matsuda, Masafumi and Yamato, Junji",,,,,
+252,ishii2014analysis1,Analysis and modeling of next speaking start timing based on gaze behavior in multi-party meetings,Multimodal Approaches,,,,2014,"2014 IEEE international conference on acoustics, speech and signal processing (ICASSP)","Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji",,,,,
+253,ishii2014analysis2,"Analysis of respiration for prediction of"" who will be next speaker and when?"" in multi-party meetings",Multimodal Approaches,,,,2014,Proceedings of the 16th international conference on multimodal interaction,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji",,,,,
+254,ishii2014analysis3,Analysis of timing structure of eye contact in turn-changing,Multimodal Approaches,,,,2014,Proceedings of the 7th Workshop on Eye Gaze in Intelligent Human Machine Interaction: Eye-Gaze \& Multimodality,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji",,,,,
+255,ishii2015predicting,Predicting next speaker based on head movement in multi-party meetings,Multimodal Approaches,,,,2015,"2015 {IEEE} International Conference on Acoustics, Speech and Signal
 Processing, {ICASSP} 2015, South Brisbane, Queensland, Australia,
 April 19-24, 2015","Ryo Ishii and
 Shiro Kumano and
 Kazuhiro Otsuka",{IEEE},https://doi.org/10.1109/ICASSP.2015.7178385,,10.1109/ICASSP.2015.7178385,
-ishii2016analyzing,Analyzing mouth-opening transition pattern for predicting next speaker in multi-party meetings,Multimodal Approaches,2016,proceedings of the 18th ACM international conference on multimodal interaction,"Ishii, Ryo and Kumano, Shiro and Otsuka, Kazuhiro",,,,,
-ishii2016prediction,Prediction of who will be the next speaker and when using gaze behavior in multiparty meetings,Multimodal Approaches,2016,,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji","ACM New York, NY, USA",,ACM Transactions on Interactive Intelligent Systems (TIIS),,
-ishii2016using,Using respiration to predict who will speak next and when in multiparty meetings,Multimodal Approaches,2016,,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji","ACM New York, NY, USA",,ACM Transactions on Interactive Intelligent Systems (TiiS),,
-ishii2017prediction,Prediction of next-utterance timing using head movement in multi-party meetings,Multimodal Approaches,2017,Proceedings of the 5th International Conference on Human Agent Interaction,"Ishii, Ryo and Kumano, Shiro and Otsuka, Kazuhiro",,,,,
+256,ishii2016analyzing,Analyzing mouth-opening transition pattern for predicting next speaker in multi-party meetings,Multimodal Approaches,,,,2016,proceedings of the 18th ACM international conference on multimodal interaction,"Ishii, Ryo and Kumano, Shiro and Otsuka, Kazuhiro",,,,,
+257,ishii2016prediction,Prediction of who will be the next speaker and when using gaze behavior in multiparty meetings,Multimodal Approaches,,,,2016,,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji","ACM New York, NY, USA",,ACM Transactions on Interactive Intelligent Systems (TIIS),,
+258,ishii2016using,Using respiration to predict who will speak next and when in multiparty meetings,Multimodal Approaches,,,,2016,,"Ishii, Ryo and Otsuka, Kazuhiro and Kumano, Shiro and Yamato, Junji","ACM New York, NY, USA",,ACM Transactions on Interactive Intelligent Systems (TiiS),,
+259,ishii2017prediction,Prediction of next-utterance timing using head movement in multi-party meetings,Multimodal Approaches,,,,2017,Proceedings of the 5th International Conference on Human Agent Interaction,"Ishii, Ryo and Kumano, Shiro and Otsuka, Kazuhiro",,,,,
