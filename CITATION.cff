@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mahajan"
+  given-names: "Khyati"
+title: "A repository of citations related to multi-party conversations - past research and available resources"
+version: 2.0.4
+doi: 10.5281/zenodo.8098072
+date-released: 2023-06-29
+url: "https://github.com/khyatimahajan/mpd-references"
